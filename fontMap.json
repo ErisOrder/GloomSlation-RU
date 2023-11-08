@@ -1,3 +1,7 @@
 {
-    "Gloomfont SDF": "p_Chinese Ruler SDF_r"
+  "FALLBACK_FONT": "mr_ChelthmITCBkG SDF",
+  "Gloomfont SDF": "Ardeco SDF",
+  "Postamt SDF": "mr_ChelthmITCBkG SDF",
+  "TCBrixton-Rg SDF": "Lumberjack Rough SDF",
+  "opera-lyrics-smooth SDF": "DroidSerif-Bold SDF"
 }

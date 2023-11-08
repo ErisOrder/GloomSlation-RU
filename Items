@@ -1,369 +1,369 @@
 NULL							= "";
-NONE							= "None";
+NONE							= "Нет";
 
 // Item Slots
-SLOT_MELEE						= "Melee";
-SLOT_OFFHAND					= "Offhand";
-SLOT_HEAD						= "Head";
-SLOT_EYE						= "Eye";
-SLOT_RING						= "Ring";
-SLOT_CURRENCY					= "Gold";
-SLOT_JOURNAL					= "Journal";
+SLOT_MELEE						= "Ближний Бой";
+SLOT_OFFHAND					= "Вторая рука";
+SLOT_HEAD						= "Голова";
+SLOT_EYE						= "Глаза";
+SLOT_RING						= "Кольцо";
+SLOT_CURRENCY					= "Золото";
+SLOT_JOURNAL					= "Дневник";
 
 // Condition
-CONDITION						= "Condition";
-CONDITION_FINE					= "Fine";
-CONDITION_CAUTION				= "Caution";
-CONDITION_DANGER				= "Danger";
+CONDITION						= "Состояние";
+CONDITION_FINE					= "Хорошее";
+CONDITION_CAUTION				= "Серьезное";
+CONDITION_DANGER				= "Тяжелое";
 
 // Shop
-SHOP_DISCOUNT					= "Discount!";
-SHOP_SOLDOUT					= "Sold Out!";
+SHOP_DISCOUNT					= "Скидка!";
+SHOP_SOLDOUT					= "Продано!";
 
 // Item Actions
-ITEM_EQUIP						= "Equip";
-ITEM_UNEQUIP					= "Unequip";
-ITEM_DRAW						= "Draw";
-ITEM_USE						= "Use";
-ITEM_EXAMINE					= "Examine";
-ITEM_HOLD						= "Hold";
-ITEM_UNLOAD						= "Unload";
-ITEM_SPLIT						= "Unpack";
-ITEM_DROP						= "Drop";
-ITEM_QUANTITY					= "Quantity";
-ITEM_LOADEDTYPE					= "Ammo Type";
-ITEM_LOADEDQUANTITY				= "Ammo Count";
+ITEM_EQUIP						= "Снарядить";
+ITEM_UNEQUIP					= "Снять";
+ITEM_DRAW						= "Вытащить";
+ITEM_USE						= "Использовать";
+ITEM_EXAMINE					= "Осмотреть";
+ITEM_HOLD						= "Держать";
+ITEM_UNLOAD						= "Разрядить";
+ITEM_SPLIT						= "Разделить";
+ITEM_DROP						= "Выкинуть";
+ITEM_QUANTITY					= "Количество";
+ITEM_LOADEDTYPE					= "Вид Патронов";
+ITEM_LOADEDQUANTITY				= "Количество Патронов";
 
 // Item Action Names
-ITEM_INJECT						= "Inject";
-ITEM_OPEN						= "Open";
-ITEM_EAT						= "Gorge";
-ITEM_DRINK						= "Quaff";
-ITEM_READ						= "Read";
-ITEM_ZOOM						= "Zoom";
+ITEM_INJECT						= "Вколоть";
+ITEM_OPEN						= "Открыть";
+ITEM_EAT						= "Сожрать";
+ITEM_DRINK						= "Выпить";
+ITEM_READ						= "Читать";
+ITEM_ZOOM						= "Разглядеть";
 
-ACTIVATE_FULLHEALTH				= "At Max Health";
-ACTIVATE_FULLINVENTORY			= "Cannot Carry Any More of That";
-ACTIVATE_SAVEGAME				= "Save Game";
+ACTIVATE_FULLHEALTH				= "Полное здоровье";
+ACTIVATE_FULLINVENTORY			= "Нельзя Унести Больше";
+ACTIVATE_SAVEGAME				= "Сохранить Игру";
 
 // Item groups
-ITEMGROUP_ALL					= "All";
-ITEMGROUP_EQUIPMENT				= "Equipment";
-ITEMGROUP_CONSUMABLES			= "Consumables";
-ITEMGROUP_FOOD					= "Food";
-ITEMGROUP_WEAPONS				= "Weapons";
-ITEMGROUP_AMMO					= "Ammo";
-ITEMGROUP_KEYS					= "Keys";
-ITEMGROUP_CURRENCY				= "Currency";
-ITEMGROUP_NOTES					= "Notes";
+ITEMGROUP_ALL					= "Все";
+ITEMGROUP_EQUIPMENT				= "Снаряжение";
+ITEMGROUP_CONSUMABLES			= "Расходники";
+ITEMGROUP_FOOD					= "Еда";
+ITEMGROUP_WEAPONS				= "Оружие";
+ITEMGROUP_AMMO					= "Патроны";
+ITEMGROUP_KEYS					= "Ключи";
+ITEMGROUP_CURRENCY				= "Валюта";
+ITEMGROUP_NOTES					= "Записки";
 
 // Items
-ITEM_BACKPACK_NAME				= "Backpack";
-ITEM_BACKPACK_DESC				= "A bag to carry all your items in";
+ITEM_BACKPACK_NAME				= "Рюкзак";
+ITEM_BACKPACK_DESC				= "В нем вы носите все свои вещи";
 
-ITEM_BLOODVIAL_NAME				= "Blood Vial";
-ITEM_BLOODVIAL_DESC				= "A sampling of the doctor's blood to test for trauma, toxins and illnesses.";
+ITEM_BLOODVIAL_NAME				= "Blood Vial Колба с Кровью";
+ITEM_BLOODVIAL_DESC				= "Образец Вашей крови, чтобы провериться на травмы, токсины и болезни.";
 
-ITEM_JOURNAL_NAME				= "Journal";
-ITEM_JOURNAL_DESC				= "A journal containing various notes, documents and maps of the city.";
+ITEM_JOURNAL_NAME				= "Дневник";
+ITEM_JOURNAL_DESC				= "В Дневнике хранятся записки, документы и карты.";
 
-ITEM_HANDLANTERN_NAME			= "Handlantern";
-ITEM_HANDLANTERN_DESC			= "An electrical handlantern that can illuminate the darkness at the cost of high visibility. Local steamboat captains rumor that such lamps can repel the ghostly fog that seeps in from the sea.";
+ITEM_HANDLANTERN_NAME			= "Светильник";
+ITEM_HANDLANTERN_DESC			= "Электрический Светильник, разгоняющий тьму и делающий вас заметным. Среди местных капитанов кораблей ходят слухи, что его свет способен разгонять призрачный туман, приходящий с моря.";
 
-ITEM_HANDLANTERN_BROKEN_NAME	= "Broken Handlantern";
-ITEM_HANDLANTERN_BROKEN_DESC	= "A broken electrical handlantern. Not much use for it now.";
+ITEM_HANDLANTERN_BROKEN_NAME	= "Сломанный Светильник";
+ITEM_HANDLANTERN_BROKEN_DESC	= "Сломанный электрический светильник. Теперь это просто бесполезная жестянка.";
 
-ITEM_LIGHTGEMRING_NAME			= "Light Gem Ring";
-ITEM_LIGHTGEMRING_DESC			= "A ring with a crystal that reacts to nearby light.";
+ITEM_LIGHTGEMRING_NAME			= "Кольцо с Камнем Света";
+ITEM_LIGHTGEMRING_DESC			= "Кольцо с кристаллом, который реагирует на свет.";
 
-ITEM_KEYRING_NAME				= "Key Ring";
-ITEM_KEYRING_DESC				= "A ring that contains all of your found keys.";
+ITEM_KEYRING_NAME				= "Ключница";
+ITEM_KEYRING_DESC				= "Кольцо, на котором висят все найденные вами ключи.";
 
-ITEM_MEDHYPO_NAME				= "Vitalizing Tonic";
-ITEM_MEDHYPO_DESC				= "A hypodermic syringe containing a concoction of strong analgesics and anticoagulants. The tincture's signature glow comes from a native herb in the southern swamplands.";
+ITEM_MEDHYPO_NAME				= "Живительный Тоник";
+ITEM_MEDHYPO_DESC				= "Шприц для подкожных инъекций, содержащий смесь сильных анальгетиков и антикоагулянтов. Особый оттенок тоника получается из местной травы, произрастающей на южных болотах.";
 
-ITEM_MEDKIT_NAME				= "Medikit";
-ITEM_MEDKIT_DESC				= "Fully restores health";
+ITEM_MEDKIT_NAME				= "Аптечка";
+ITEM_MEDKIT_DESC				= "Полностью восстанавливает здоровье";
 
-ITEM_MONOCLE_NAME				= "Monocle";
-ITEM_MONOCLE_DESC				= "Has an extendable lens for zooming";
+ITEM_MONOCLE_NAME				= "Монокль";
+ITEM_MONOCLE_DESC				= "Монокль с увеличивающим стеклом";
 
-ITEM_MUSICBOX_NAME				= "Music Box";
-ITEM_MUSICBOX_DESC				= "Wind handle to save the game";
+ITEM_MUSICBOX_NAME				= "Музыкальная Шкатулка";
+ITEM_MUSICBOX_DESC				= "Покрутите ручку, чтобы сохранить игру";
 
-ITEM_WAXCYLINDER_NAME			= "Wax Cylinder";
-ITEM_WAXCYLINDER_DESC			= "A wax cylinder for the Phonograph. Used to save the current progress. Consumed when used.";
+ITEM_WAXCYLINDER_NAME			= "Восковой Цилиндр";
+ITEM_WAXCYLINDER_DESC			= "Восковой цилиндр для Фонографа. Нужен для сохранения прогресса. Используется при сохранении.";
 
 // Food
-ITEM_CHEESE_NAME				= "Cheese Wheel";
-ITEM_CHEESE_DESC				= "A strong scented cheese wheel. The majority of the region's dairy comes from nose-horned goats that migrated from the eastern mountains.";
+ITEM_CHEESE_NAME				= "Сыр";
+ITEM_CHEESE_DESC				= "Чересчур ароматный сырный круг. Большая часть молочных продуктов в округе происходит от носорогих коз, которые мигрировали с восточных гор.";
 
-ITEM_APPLE_NAME					= "Apple";
-ITEM_APPLE_DESC					= "A somewhat moldy apple.";
+ITEM_APPLE_NAME					= "Яблоко";
+ITEM_APPLE_DESC					= "Немного подгнившее яблоко.";
 
-ITEM_LEVER_HANDLE_NAME			= "Lever Handle";
-ITEM_LEVER_HANDLE_DESC			= "A handle for a mechanical lever";
+ITEM_LEVER_HANDLE_NAME			= "Ручка Рычага";
+ITEM_LEVER_HANDLE_DESC			= "Ручка механического рычага";
 
 // Ammo
-ITEM_REVOLVERROUND_NAME			= "Revolver Cartridge";
-ITEM_REVOLVERROUND_DESC			= "A single, revolver cartridge. The casing appears to have been reused. May create a decent distraction in a pinch.";
+ITEM_REVOLVERROUND_NAME			= "Револьверный патрон";
+ITEM_REVOLVERROUND_DESC			= "Одиночный револьверный патрон. Судя по всему, уже был использован несколько раз. Может послужить для отвлечения внимания.";
 
-ITEM_REVOLVERROUNDSPENT_NAME	= "Spent Revolver Round";
-ITEM_REVOLVERROUNDSPENT_DESC	= "An empty, spent revolver casing. May suffice as an impromptu distraction in a pinch.";
+ITEM_REVOLVERROUNDSPENT_NAME	= "Гильза от Револьверного Патрона";
+ITEM_REVOLVERROUNDSPENT_DESC	= "Пустая, стреляная гильза от револьвера. Подойдёт для того, чтобы отвлечь внимание.";
 
-ITEM_REVOLVERROUNDBOX_NAME		= "Revolver Cartridges";
-ITEM_REVOLVERROUNDBOX_DESC		= "A worn, soggy box of common revolver cartridges. A faint marking of the Constabulary approval stamp is barely legible on the front.";
+ITEM_REVOLVERROUNDBOX_NAME		= "Коробка Патронов для Револьвера";
+ITEM_REVOLVERROUNDBOX_DESC		= "Потертая, промокшая коробка с обычными револьверными патронами. На лицевой стороне едва различима слабая отметка об утверждении Констеблями.";
 
-ITEM_SHOTGUNSHELL_NAME			= "Shotgun Shell";
-ITEM_SHOTGUNSHELL_DESC			= "A buckshot shell for the shotgun. May suffice as an impromptu distraction in a pinch.";
+ITEM_SHOTGUNSHELL_NAME			= "Патрон для Дробовика";
+ITEM_SHOTGUNSHELL_DESC			= "Гильза с картечью для дробовика. Может послужить для отвлечения внимания.";
 
-ITEM_SHOTGUNSHELLSPENT_NAME		= "Spent Shotgun Shell";
-ITEM_SHOTGUNSHELLSPENT_DESC		= "An empty, spent shell. May suffice as an impromptu distraction in a pinch.";
+ITEM_SHOTGUNSHELLSPENT_NAME		= "Пустая Гильза для Картечи";
+ITEM_SHOTGUNSHELLSPENT_DESC		= "Пустая гильза. Подойдёт для того, чтобы отвлечь внимание.";
 
-ITEM_SHOTGUNSHELLBOX_NAME		= "Shotgun Shell Box";
-ITEM_SHOTGUNSHELLBOX_DESC		= "A decayed box of shotgun shells. Once outlawed in this region, shotgun ammunition returned to usage as the city relied more on game over imported goods.";
+ITEM_SHOTGUNSHELLBOX_NAME		= "Коробка с гильзами";
+ITEM_SHOTGUNSHELLBOX_DESC		= "Истлевшая коробка из-под патронов для дробовика. Когда-то запрещенные в этом регионе, патроны для дробовика вернулись в обиход, поскольку город стал больше полагаться на дичь, чем на импорт товаров.";
 
-ITEM_UNDERTAKER_SLUG_NAME		= "Slug Bolt";
-ITEM_UNDERTAKER_SLUG_DESC		= "A heavy slug round for the Undertaker pistol. Can activate buttons and shatter glass and lights.";
+ITEM_UNDERTAKER_SLUG_NAME		= "Ударный патрон";
+ITEM_UNDERTAKER_SLUG_DESC		= "Тяжелый патрон для Гробовщика. С его помощью можно нажимать кнопки и разбивать стёкла и лампы.";
 
-ITEM_UNDERTAKER_CHOKE_NAME		= "Choke Bolt";
-ITEM_UNDERTAKER_CHOKE_DESC		= "A vapor-filled round for the Undertaker pistol. Can extinguish fire sources and induce brief coughing fits in creatures.";
+ITEM_UNDERTAKER_CHOKE_NAME		= "Водяной Патрон";
+ITEM_UNDERTAKER_CHOKE_DESC		= "Заряженный аэрозолем патрон для Гробовщика. С его помощью можно тушить источники огня и вызывать кратковременные приступы кашля.";
 
-ITEM_UNDERTAKER_INCENDIARY_NAME	= "Incendiary Bolt";
-ITEM_UNDERTAKER_INCENDIARY_DESC	= "A flammable round for the Undertaker pistol. Can ignite objects and instantly combust explosive sources.";
+ITEM_UNDERTAKER_INCENDIARY_NAME	= "Зажигательный Патрон";
+ITEM_UNDERTAKER_INCENDIARY_DESC	= "Зажигательный патрон для Гробовщика. Может поджигать предметы и мгновенно воспламенять взрывоопасные вещества.";
 
-ITEM_UNDERTAKER_SHOCK_NAME		= "Flash Bolt";
-ITEM_UNDERTAKER_SHOCK_DESC		= "A blinding round for the Undertaker pistol.";
+ITEM_UNDERTAKER_SHOCK_NAME		= "Ослепляющий Патрон";
+ITEM_UNDERTAKER_SHOCK_DESC		= "Ослепляющий патрон для Гробовщика.";
 
-ITEM_GUNPOWDER_NAME				= "Gunpowder";
+ITEM_GUNPOWDER_NAME				= "Порох";
 ITEM_GUNPOWDER_DESC				= "";
 
 // Junk
-ITEM_BOTTLE_NAME				= "Glass Bottle";
-ITEM_BOTTLE_DESC				= "An empty, glass liquor bottle that is capable of creating a loud distraction. The faded label of the Ashbrew Brewery wraps the front.";
+ITEM_BOTTLE_NAME				= "Стеклянная бутылка";
+ITEM_BOTTLE_DESC				= "Пустая стеклянная бутылка из-под ликера, которую можно разбить для отвлечения. Спереди - выцветшая этикетка пивоварни Ashbrew.";
 
-ITEM_CAN_FISH_NAME				= "Can of Fish";
-ITEM_CAN_FISH_DESC				= "A can labeled with a 'Croup Fisheries' sticker. A salty, sickly smell emanates from the wrapper.";
+ITEM_CAN_FISH_NAME				= "Рыбные Консервы";
+ITEM_CAN_FISH_DESC				= "Консервная банка с этикеткой Рыбзавода Мистера Крупа. От обертки исходит солоноватый, приторный запах.";
 
-ITEM_CAN_FISH_EMPTY_NAME		= "Can of Fish (Empty)";
-ITEM_CAN_FISH_EMPTY_DESC		= "An empty can labeled with a 'Croup Fisheries' sticker. The inside of the can is stained with a slimy residue.";
+ITEM_CAN_FISH_EMPTY_NAME		= "Рыбные Консервы (Пусто)";
+ITEM_CAN_FISH_EMPTY_DESC		= "Пустая банка с этикеткой Рыбзавода Мистера Крупа. Внутренние стенки банки испачканы слизью.";
 
-ITEM_CAN_BEANS_NAME				= "Can of Beans";
-ITEM_CAN_BEANS_DESC				= "A can labeled with a 'Doctor Smithy's Pork and Beans' sticker. An unmistakable nostalgic scent eminates.";
+ITEM_CAN_BEANS_NAME				= "Консервированные Бобы";
+ITEM_CAN_BEANS_DESC				= "Банка с этикеткой 'Свинина с фасолью от Доктора Смити'. Безошибочно узнаваемый аромат отправляет в ностальгический нокаут.";
 
-ITEM_CAN_BEANS_EMPTY_NAME		= "Can of Beans (Empty)";
-ITEM_CAN_BEANS_EMPTY_DESC		= "An empty can labeled with a 'Doctor Smithy's Pork and Beans' sticker. The only thing left inside is the pain of having nothing. It hurts.";
+ITEM_CAN_BEANS_EMPTY_NAME		= "Консервированные Бобы (Пусто)";
+ITEM_CAN_BEANS_EMPTY_DESC		= "Пустая банка с этикеткой 'Свинина с фасолью от Доктора Смити'. Единственное, что осталось - боль от осознавания того, что они кончились.";
 
-ITEM_RIFLE_BROKEN_NAME			= "Huntsmans' Rifle";
-ITEM_RIFLE_BROKEN_DESC			= "A makeshift, shoddy hunting rifle. The grips are built for the distorted proportions of the huntsmen and cannot be handled by average humans.";
+ITEM_RIFLE_BROKEN_NAME			= "Охотничья винтовка";
+ITEM_RIFLE_BROKEN_DESC			= "Самодельное, убогое охотничье ружье. Размеры подогнаны под лапищи охотников, из-за чего обычному человеку винтовкой не воспользоваться.";
 
 // Giblets
-ITEM_GIBLET_WOODSMAN_HEAD_NAME		= "Woodsman Head";
-ITEM_GIBLET_WOODSMAN_HEAD_DESC		= "(Not Researched)";
+ITEM_GIBLET_WOODSMAN_HEAD_NAME		= "Голова Дровосека";
+ITEM_GIBLET_WOODSMAN_HEAD_DESC		= "(Не исследовано)";
 
-ITEM_GIBLET_WOODSMAN_ARM_LEFT_NAME	= "Woodsman Arm (Left)";
-ITEM_GIBLET_WOODSMAN_ARM_LEFT_DESC	= "(Not Researched)";
+ITEM_GIBLET_WOODSMAN_ARM_LEFT_NAME	= "Рука Дровосека (Левая)";
+ITEM_GIBLET_WOODSMAN_ARM_LEFT_DESC	= "(Не исследовано)";
 
-ITEM_GIBLET_WOODSMAN_ARM_RIGHT_NAME	= "Woodsman Arm (Right)";
-ITEM_GIBLET_WOODSMAN_ARM_RIGHT_DESC	= "(Not Researched)";
+ITEM_GIBLET_WOODSMAN_ARM_RIGHT_NAME	= "Рука Дровосека (Правая)";
+ITEM_GIBLET_WOODSMAN_ARM_RIGHT_DESC	= "(Не исследовано)";
 
-ITEM_GIBLET_WOODSMAN_LEG_LEFT_NAME	= "Woodsman Leg (Left)";
-ITEM_GIBLET_WOODSMAN_LEG_LEFT_DESC	= "(Not Researched)";
+ITEM_GIBLET_WOODSMAN_LEG_LEFT_NAME	= "Нога Дровосека (Левая)";
+ITEM_GIBLET_WOODSMAN_LEG_LEFT_DESC	= "(Не исследовано)";
 
-ITEM_GIBLET_WOODSMAN_LEG_RIGHT_NAME	= "Woodsman Leg (Right)";
-ITEM_GIBLET_WOODSMAN_LEG_RIGHT_DESC	= "(Not Researched)";
+ITEM_GIBLET_WOODSMAN_LEG_RIGHT_NAME	= "Нога Дровосека (Правая)";
+ITEM_GIBLET_WOODSMAN_LEG_RIGHT_DESC	= "(Не исследовано)";
 
-ITEM_GIBLET_HUNTSMAN_HEAD_NAME		= "Huntsman Head";
-ITEM_GIBLET_HUNTSMAN_HEAD_DESC		= "(Not Researched)";
+ITEM_GIBLET_HUNTSMAN_HEAD_NAME		= "Голова Охотника";
+ITEM_GIBLET_HUNTSMAN_HEAD_DESC		= "(Не исследовано)";
 
-ITEM_GIBLET_HUNTSMAN_ARM_LEFT_NAME	= "Huntsman Arm (Left)";
-ITEM_GIBLET_HUNTSMAN_ARM_LEFT_DESC	= "(Not Researched)";
+ITEM_GIBLET_HUNTSMAN_ARM_LEFT_NAME	= "Рука Охотника (Левая)";
+ITEM_GIBLET_HUNTSMAN_ARM_LEFT_DESC	= "(Не исследовано)";
 
-ITEM_GIBLET_HUNTSMAN_ARM_RIGHT_NAME	= "Huntsman Arm (Right)";
-ITEM_GIBLET_HUNTSMAN_ARM_RIGHT_DESC	= "(Not Researched)";
+ITEM_GIBLET_HUNTSMAN_ARM_RIGHT_NAME	= "Рука Охотника (Правая)";
+ITEM_GIBLET_HUNTSMAN_ARM_RIGHT_DESC	= "(Не исследовано)";
 
-ITEM_GIBLET_HUNTSMAN_LEG_LEFT_NAME	= "Huntsman Leg (Left)";
-ITEM_GIBLET_HUNTSMAN_LEG_LEFT_DESC	= "(Not Researched)";
+ITEM_GIBLET_HUNTSMAN_LEG_LEFT_NAME	= "Нога Охотника (Левая)";
+ITEM_GIBLET_HUNTSMAN_LEG_LEFT_DESC	= "(Не исследовано)";
 
-ITEM_GIBLET_HUNTSMAN_LEG_RIGHT_NAME	= "Huntsman Leg (Right)";
-ITEM_GIBLET_HUNTSMAN_LEG_RIGHT_DESC	= "(Not Researched)";
+ITEM_GIBLET_HUNTSMAN_LEG_RIGHT_NAME	= "Нога Охотника (Правая)";
+ITEM_GIBLET_HUNTSMAN_LEG_RIGHT_DESC	= "(Не исследовано)";
 
-ITEM_GIBLET_CITIZEN_MAN_HEAD_NAME	= "Citizen Man Head";
-ITEM_GIBLET_CITIZEN_MAN_HEAD_DESC	= "(Not Researched)";
+ITEM_GIBLET_CITIZEN_MAN_HEAD_NAME	= "Голова Горожанина";
+ITEM_GIBLET_CITIZEN_MAN_HEAD_DESC	= "(Не исследовано)";
 
-ITEM_GOATMAN_HORN_LEFT_NAME			= "Goatman Horn (Left)";
-ITEM_GOATMAN_HORN_LEFT_DESC			= "(Not Researched)";
+ITEM_GOATMAN_HORN_LEFT_NAME			= "Рог Человека-Козла (Левый)";
+ITEM_GOATMAN_HORN_LEFT_DESC			= "(Не исследовано)";
 
-ITEM_GOATMAN_HORN_RIGHT_NAME		= "Goatman Horn (Right)";
-ITEM_GOATMAN_HORN_RIGHT_DESC		= "(Not Researched)";
+ITEM_GOATMAN_HORN_RIGHT_NAME		= "Рог Человека-Козла (Правый)";
+ITEM_GOATMAN_HORN_RIGHT_DESC		= "(Не исследовано)";
 
 // Weapons
-ITEM_CANESWORD_NAME					= "Canesword";
-ITEM_CANESWORD_DESC					= "A durable canesword with an ivory handle and silver coated blade. A powered thrust to an unaware, unarmored enemy will deal critical damage.";
+ITEM_CANESWORD_NAME					= "Трость с клинком";
+ITEM_CANESWORD_DESC					= "Прочная трость с рукояткой из слоновой кости и скрытым серебряным клинком. Сильный удар по ничего не подозревающей, небронированной жертве нанесёт много урона.";
 
-ITEM_REVOLVER_NAME					= "Revolver";
-ITEM_REVOLVER_DESC					= "Break-action revolver with six chambers. Steel-casted and chambered for a cartridge round local to the city.";
+ITEM_REVOLVER_NAME					= "Револьвер";
+ITEM_REVOLVER_DESC					= "Револьвер с 'качающимся' стволом и шестизарядным барабаном. Отлит из стали и изготовлен специально под патроны местного производства.";
 
-ITEM_SHOTGUN_NAME					= "Shotgun";
-ITEM_SHOTGUN_DESC					= "A collapsable pump shotgun. A favorite among the trappers who desired an easily carryable close-range weapon for their excursions past the bulwark.";
+ITEM_SHOTGUN_NAME					= "Дробовик";
+ITEM_SHOTGUN_DESC					= "Помповый переломный дробовик. Полюбившееся охотникам за свою лёгкость и компактность оружие. По их словам, это хорошее оружие ближнего боя для вылазок за пределы города.";
 
-ITEM_LEGTRAP_NAME					= "Leg-hold Trap";
-ITEM_LEGTRAP_DESC					= "A trap that can be used to snare the target's leg.";
+ITEM_LEGTRAP_NAME					= "Капкан";
+ITEM_LEGTRAP_DESC					= "Стандартный капкан, созданный чтобы захватить ногу жертвы.";
 
-ITEM_UNDERTAKER_NAME				= "Undertaker Pistol";
-ITEM_UNDERTAKER_DESC				= "A custom, single-shot pistol with a silencer. The chamber is shaped for a special canister type that delivers various gasses and liquids. ";
+ITEM_UNDERTAKER_NAME				= "Гробовщик";
+ITEM_UNDERTAKER_DESC				= "Кустарный однозарядный пистолет с глушителем. Отсек создан для особых патронов, которые могут содержать различные газы и жидкости.";
 
-ITEM_FLASHBOMB_NAME					= "Flashbomb";
-ITEM_FLASHBOMB_DESC					= "A throwable bomb that emits a blinding flash, rendering nearby creatures unable to see or attack. A newly introduced tool used by the Constabulary to quell riots and protests.";
+ITEM_FLASHBOMB_NAME					= "Световая бомба";
+ITEM_FLASHBOMB_DESC					= "Бомба, при взрыве которой происходит ослепляющая вспышка, лишающая находящихся поблизости существ возможности видеть или атаковать. Недавно появившийся инструмент, используемый Констеблями для подавления беспорядков и протестов.";
 
 // Tools
-ITEM_BUTTON_PRESSER_NAME			= "Button Cap";
-ITEM_BUTTON_PRESSER_DESC			= "A cap for a button presser. Can be used to repair certain devices.";
+ITEM_BUTTON_PRESSER_NAME			= "Кнопка";
+ITEM_BUTTON_PRESSER_DESC			= "Большая красная кнопка. Можно использовать, чтобы починить какой-нибудь механизм.";
 
-ITEM_VALVE_NAME						= "Handvalve";
-ITEM_VALVE_DESC						= "A handvalve for manually operating various devices. Can be installed into an appropriate valve seat.";
+ITEM_VALVE_NAME						= "Вентиль";
+ITEM_VALVE_DESC						= "Небольшой ручной вентиль, подходящий к разным механизмам. Может быть установлен в соответствующее седло клапана.";
 
-ITEM_CANNONBALL_NAME				= "Cannonball";
-ITEM_CANNONBALL_DESC				= "Cannonball that can be loaded into a cannon. There's a thin layer of rust covering it.";
+ITEM_CANNONBALL_NAME				= "Ядро";
+ITEM_CANNONBALL_DESC				= "Ядро для пушки. Его поверхность немного проржавела.";
 
-ITEM_CANNON_FUSE_NAME				= "Cannon Fuse";
-ITEM_CANNON_FUSE_DESC				= "A fuse string for a cannon.";
+ITEM_CANNON_FUSE_NAME				= "Веревка-предохранитель";
+ITEM_CANNON_FUSE_DESC				= "Веревка-предохранитель для пушки.";
 
-ITEM_POWDERFLASK_NAME				= "Powderflask Horn";
-ITEM_POWDERFLASK_DESC				= "A small container made from an animal horn. Useful for pouring gunpowder into older, muzzle-loaded weapons like muskets and cannons.";
+ITEM_POWDERFLASK_NAME				= "Пороховница";
+ITEM_POWDERFLASK_DESC				= "Небольшой контейнер, сделанный из рога крупного скота. Нужен чтобы засыпать порох в старое оружие, заряжаемое с дула, такое как мушкеты и пушки.";
 
 // Keys
-KEY_NONE_NAME						= "None";
-KEY_NONE_DESC						= "No keys have been found.";
+KEY_NONE_NAME						= "Нет";
+KEY_NONE_DESC						= "У Вас нет ключей.";
 
-KEY_TESTKEY1_NAME					= "Test Key";
-KEY_TESTKEY1_DESC					= "The first test key.";
+KEY_TESTKEY1_NAME					= "Тестовый Ключ";
+KEY_TESTKEY1_DESC					= "Первый тестовый ключ.";
 
-KEY_TESTKEY2_NAME					= "Second Test Key";
-KEY_TESTKEY2_DESC					= "The second test key.";
+KEY_TESTKEY2_NAME					= "Второй тестовый ключ";
+KEY_TESTKEY2_DESC					= "Второй тестовый ключ.";
 
-KEY_EMBLEM_CROW_NAME				= "Emblem of the Crow";
-KEY_EMBLEM_CROW_DESC				= "Engraved with the symbol of a Crow";
+KEY_EMBLEM_CROW_NAME				= "Печать Вороны";
+KEY_EMBLEM_CROW_DESC				= "Печать с выгравированной Вороной";
 
-KEY_EMBLEM_RAT_NAME					= "Emblem of the Rat";
-KEY_EMBLEM_RAT_DESC					= "Engraved symbol of a Rat";
+KEY_EMBLEM_RAT_NAME					= "Печать Крысы";
+KEY_EMBLEM_RAT_DESC					= "Печать с выгравированной Крысой";
 
-KEY_DEMO_SAFEHOUSE_NAME				= "Safehouse Key";
-KEY_DEMO_SAFEHOUSE_DESC				= "For the safehouse front door";
+KEY_DEMO_SAFEHOUSE_NAME				= "Ключ к Убежищу";
+KEY_DEMO_SAFEHOUSE_DESC				= "Подходит к двери убежища";
 
-KEY_DEMO_COURTYARD_NAME				= "Warden Court Key";
-KEY_DEMO_COURTYARD_DESC				= "For the door near the Jailhouse entrance";
+KEY_DEMO_COURTYARD_NAME				= "Ключ Надзирателя";
+KEY_DEMO_COURTYARD_DESC				= "Подходит к двери рядом со входом в тюрьму";
 
-KEY_DEMO_GUARDHOUSE_NAME			= "Guardhouse Key";
-KEY_DEMO_GUARDHOUSE_DESC			= "For the guardhouse near the Market gate";
+KEY_DEMO_GUARDHOUSE_NAME			= "Ключ от Караулки";
+KEY_DEMO_GUARDHOUSE_DESC			= "Подходит к Караулке неподалеку от ворот Рынка";
 
-KEY_FISHERY_SUPPLYROOM_NAME			= "Fishery Supply Room Key";
-KEY_FISHERY_SUPPLYROOM_DESC			= "Key to the supply room at Mr. Croup's Fishery.";
+KEY_FISHERY_SUPPLYROOM_NAME			= "Ключ к Кладовой Рыбзавода";
+KEY_FISHERY_SUPPLYROOM_DESC			= "Ключ к Кладовой Рыбзавода Мистера Крупа.";
 
-KEY_FISHERY_MANAGER_NAME			= "Fishery Manager's Key";
-KEY_FISHERY_MANAGER_DESC			= "Manager's key at Mr. Croup's Fishery.";
+KEY_FISHERY_MANAGER_NAME			= "Ключ Главы Рыбзавода";
+KEY_FISHERY_MANAGER_DESC			= "Ключ Главы Рыбзавода Мистера Крупа.";
 
-KEY_FISHERY_ROOFTOP_NAME			= "Fishery Rooftop Key";
-KEY_FISHERY_ROOFTOP_DESC			= "Key for the rooftop at Mr. Croup's Fishery.";
+KEY_FISHERY_ROOFTOP_NAME			= "Ключ к Крыше Рыбзавода";
+KEY_FISHERY_ROOFTOP_DESC			= "Ключ к Крыше Рыбзавода Мистера Крупа.";
 
-KEY_FISHERY_POWERROOM_NAME			= "Fishery Power Room";
-KEY_FISHERY_POWERROOM_DESC			= "Key for the power room at Mr. Croup's Fishery.";
+KEY_FISHERY_POWERROOM_NAME			= "Ключ к Генераторной Рыбзавода";
+KEY_FISHERY_POWERROOM_DESC			= "Ключ к Генераторной Рыбзавода Мистера Крупа.";
 
-KEY_FISHERY_POWERGENERATOR_NAME		= "Fishery Generator Key";
-KEY_FISHERY_POWERGENERATOR_DESC		= "Key to the Fishery power generator.";
+KEY_FISHERY_POWERGENERATOR_NAME		= "Ключ к Генератору Рыбзавода";
+KEY_FISHERY_POWERGENERATOR_DESC		= "Ключ к Генератору Рыбзавода Мистера Крупа.";
 
-KEY_FISHERY_CARRIAGE_BACKDOOR_NAME	= "Fishery Carriage Station Backdoor";
-KEY_FISHERY_CARRIAGE_BACKDOOR_DESC	= "Key to the backdoor of the Fishery Carriage Station.";
+KEY_FISHERY_CARRIAGE_BACKDOOR_NAME	= "Ключ к Черному ходу Рыбзавода";
+KEY_FISHERY_CARRIAGE_BACKDOOR_DESC	= "Ключ к Черному ходу Рыбзавода Мистера Крупа.";
 
-KEY_COAST_FISHERY_CABIN_NAME		= "Fishery Cabin Key";
-KEY_COAST_FISHERY_CABIN_DESC		= "Key to the cabin overlooking Mr. Croup's Fishery.";
+KEY_COAST_FISHERY_CABIN_NAME		= "Ключ к Смотровой Башне Рыбзавода";
+KEY_COAST_FISHERY_CABIN_DESC		= "Ключ к Смотровой Башне Рыбзавода Мистера Крупа.";
 
-KEY_CAVES_POWERGENERATOR_NAME		= "Mines Generator Key";
-KEY_CAVES_POWERGENERATOR_DESC		= "Key to the generator room in the coastal mines.";
+KEY_CAVES_POWERGENERATOR_NAME		= "Ключ к Генераторной Шахт";
+KEY_CAVES_POWERGENERATOR_DESC		= "Ключ к Генераторной в Шахтах Побережья.";
 
-KEY_CAVES_STORAGE_NAME				= "Mines Storage Key";
-KEY_CAVES_STORAGE_DESC				= "Key to the storage room in the coastal mines. A faint scent of blood is stained into the metal.";
+KEY_CAVES_STORAGE_NAME				= "Ключ к Складу в Шахтах";
+KEY_CAVES_STORAGE_DESC				= "Ключ к Складу в Шахтах Побережья. От него немного попахивает кровью.";
 
-KEY_COAST_HOUSE_1_NAME				= "Coast Desolated House Key";
-KEY_COAST_HOUSE_1_DESC				= "Key to a desolated house along the coastal road.";
+KEY_COAST_HOUSE_1_NAME				= "Ключ к Заброшенному Домику";
+KEY_COAST_HOUSE_1_DESC				= "Ключ к Заброшенному Домику на побережье.";
 
-KEY_PADLOCK_COAST_CLIFF_WALL_NAME	= "Lighthouse Path Padlock Door";
-KEY_PADLOCK_COAST_CLIFF_WALL_DESC	= "Key to the padlock door wall on the path up to the Lighthouse.";
+KEY_PADLOCK_COAST_CLIFF_WALL_NAME	= "Ключ от Дверь с навесным замком (Маяк)";
+KEY_PADLOCK_COAST_CLIFF_WALL_DESC	= "Ключ от двери с навесным замком на пути к Маяку.";
 
-KEY_COAST_TAVERN_GUNCASE_NAME		= "Slaughtered Goat Guncase Key";
-KEY_COAST_TAVERN_GUNCASE_DESC		= "Key to the mounted guncase in the Slaughtered Goat Tavern.";
+KEY_COAST_TAVERN_GUNCASE_NAME		= "Ключ от витрины с оружием (Таверна)";
+KEY_COAST_TAVERN_GUNCASE_DESC		= "Ключ от витрины с оружием в Таверне 'Зарезанный козел'.";
 
-KEY_COAST_TAVERN_BASEMENT_NAME		= "Slaughtered Goat Basement Key";
-KEY_COAST_TAVERN_BASEMENT_DESC		= "Key to the basement of the Slaughtered Goat Tavern.";
+KEY_COAST_TAVERN_BASEMENT_NAME		= "Ключ от подвала (Таверна)";
+KEY_COAST_TAVERN_BASEMENT_DESC		= "Ключ от подвала Таверны 'Зарезанный козел'.";
 
-KEY_COAST_TAVERN_ROOMS_NAME			= "Slaughtered Goat Room Key";
-KEY_COAST_TAVERN_ROOMS_DESC			= "Key to the guest rooms at the Slaughtered Goat Tavern.";
+KEY_COAST_TAVERN_ROOMS_NAME			= "Ключ от комнат в Таверне";
+KEY_COAST_TAVERN_ROOMS_DESC			= "Ключ от комнат в Таверне 'Зарезанный козел'";
 
-KEY_COAST_GUARDTOWER_NAME			= "Coastal Guardtower Key";
-KEY_COAST_GUARDTOWER_DESC			= "Key to the coastal guard tower outside the city gates.";
+KEY_COAST_GUARDTOWER_NAME			= "Ключ от Сторожевой Башни (Побережье)";
+KEY_COAST_GUARDTOWER_DESC			= "Ключ от Сторожевой Башни возле городских ворот.";
 
-KEY_COAST_GATEHOUSE_STORAGE_NAME	= "City Gatehouse Storage Key";
-KEY_COAST_GATEHOUSE_STORAGE_DESC	= "Key to the storage room in the city gatehouse.";
+KEY_COAST_GATEHOUSE_STORAGE_NAME	= "Ключ от Склада в Городских Воротах";
+KEY_COAST_GATEHOUSE_STORAGE_DESC	= "Ключ от Склада в помещениях Городских Ворот.";
 
-KEY_MARKET_SHACK_1_NAME = "Fishing Hut Door Key";
-KEY_MARKET_SHACK_1_DESC = "Key to the door of a locked fishing hut in in the Market District.";
+KEY_MARKET_SHACK_1_NAME = "Ключ от рыболовной хижины";
+KEY_MARKET_SHACK_1_DESC = "Ключ от запертой рыболовной хижины, находящейся в доках Рынка.";
 
-KEY_MARKET_GUNSHOP_FRONTDOOR_NAME	= "Gunshop Front Door Key";
-KEY_MARKET_GUNSHOP_FRONTDOOR_DESC	= "Key to the front door of the gunshop in the Market District.";
+KEY_MARKET_GUNSHOP_FRONTDOOR_NAME	= "Ключ от входа в Магазин Оружия";
+KEY_MARKET_GUNSHOP_FRONTDOOR_DESC	= "Ключ от главного входа в Магазин Оружия, расположенного на Рынке.";
 
-KEY_MARKET_GUNSHOP_CASHIER_NAME		= "Gunshop Cashier Key";
-KEY_MARKET_GUNSHOP_CASHIER_DESC		= "Key to the cashier desk of the gunshop in the Market District.";
+KEY_MARKET_GUNSHOP_CASHIER_NAME		= "Ключ Кассира Магазина Оружия";
+KEY_MARKET_GUNSHOP_CASHIER_DESC		= "Ключ Кассира Магазина Оружия, расположенного на Рынке.";
 
-KEY_MARKET_GUNSHOP_DISPLAYCASE_NAME	= "Gunshop Display Case Key";
-KEY_MARKET_GUNSHOP_DISPLAYCASE_DESC	= "Key to the display cases in the gunshop in the Market District.";
+KEY_MARKET_GUNSHOP_DISPLAYCASE_NAME	= "Ключ от витрин Магазина Оружия";
+KEY_MARKET_GUNSHOP_DISPLAYCASE_DESC	= "Ключ от витрин в Магазине Оружия, расположенного на Рынке.";
 
-KEY_MARKET_DOCK_POWERSTATION_NAME	= "Market Power Station Key";
-KEY_MARKET_DOCK_POWERSTATION_DESC	= "Key to the power station near the dock in the Market District.";
+KEY_MARKET_DOCK_POWERSTATION_NAME	= "Ключ от Генераторной Рынка";
+KEY_MARKET_DOCK_POWERSTATION_DESC	= "Ключ от Генераторной Рынка, находящейся в доках.";
 
-KEY_MARKET_BARBERSHOP_BASEMENT_NAME	= "Barbershop Basement Key";
-KEY_MARKET_BARBERSHOP_BASEMENT_DESC	= "Key to the basement of the Barbershop in the Market District.";
+KEY_MARKET_BARBERSHOP_BASEMENT_NAME	= "Ключ от Цирюльни";
+KEY_MARKET_BARBERSHOP_BASEMENT_DESC	= "Ключ от подавала Цирюльни, расположенной на Рынке.";
 
-KEY_MARKET_MANOR_BACKDOOR_1_NAME	= "Manor Backdoor Key";
-KEY_MARKET_MANOR_BACKDOOR_1_DESC	= "Key to the back door of a manor in the Market District.";
+KEY_MARKET_MANOR_BACKDOOR_1_NAME	= "Ключ к черному ходу в поместья (Рынок)";
+KEY_MARKET_MANOR_BACKDOOR_1_DESC	= "Ключ к черному ходу в поместьях Рынка.";
 
-KEY_MARKET_RESTROOM_FRONTDOOR_NAME	= "Market Restroom Key";
-KEY_MARKET_RESTROOM_FRONTDOOR_DESC	= "Key to the public restroom in the Market District. Quite smelly.";
+KEY_MARKET_RESTROOM_FRONTDOOR_NAME	= "Ключ к Туалету (Рынок)";
+KEY_MARKET_RESTROOM_FRONTDOOR_DESC	= "Ключ к общественному Туалету Рынка. От него воняет.";
 
-KEY_MARKET_MANOR_2_FRONTDOOR_NAME	= "Lord Marwyn's Manor Key";
-KEY_MARKET_MANOR_2_FRONTDOOR_DESC	= "Key to the front door of a manor in the Market District. The name 'Lord Marwyn' is inscribed on the head.";
+KEY_MARKET_MANOR_2_FRONTDOOR_NAME	= "Ключ от поместья Лорда Марвина";
+KEY_MARKET_MANOR_2_FRONTDOOR_DESC	= "Ключ от входа в поместье на Рынке. На ключе выгравировано 'Лорд Марвин'.";
 
 // Currency
-CURRENCY_GOLD_NAME					= "Gold";
-CURRENCY_GOLD_DESC					= "Shiny coins and valuable trinkets";
+CURRENCY_GOLD_NAME					= "Золото";
+CURRENCY_GOLD_DESC					= "Блестящее золото и ценные побрякушки";
 
 // Treasure
-ITEM_BROOCH_1_NAME					= "Red Gem Brooch";
-ITEM_BROOCH_1_DESC					= "A red gem-stone brooch. Could fetch a high price from the right buyer.";
+ITEM_BROOCH_1_NAME					= "Брошь с Рубином";
+ITEM_BROOCH_1_DESC					= "Брошь с Рубином. Если продать, можно выручить приличную сумму.";
 
-ITEM_GEM_WHITE_SMALL_NAME			= "White Gem (Small)";
-ITEM_GEM_WHITE_SMALL_DESC			= "A small, sparkling white gem. Can be sold.";
+ITEM_GEM_WHITE_SMALL_NAME			= "Белый драгоценный камень (Маленький)";
+ITEM_GEM_WHITE_SMALL_DESC			= "Маленький мерцающий белый камушек. Можно продать.";
 
-ITEM_GEM_WHITE_LARGE_NAME			= "White Gem (Large)";
-ITEM_GEM_WHITE_LARGE_DESC			= "A large, sparkling white gem. Can be sold.";
+ITEM_GEM_WHITE_LARGE_NAME			= "Белый драгоценный камень (Большой)";
+ITEM_GEM_WHITE_LARGE_DESC			= "Большой мерцающий белый камушек. Можно продать.";
 
-ITEM_GEM_BLOOD_TINY_NAME			= "Bloodstone (Tiny)";
-ITEM_GEM_BLOOD_TINY_DESC			= "A tiny, blood-trapped gemstone. Fairly valuable despite the small size.";
+ITEM_GEM_BLOOD_TINY_NAME			= "Кровавый Камень (Крохотный)";
+ITEM_GEM_BLOOD_TINY_DESC			= "Малюсенький драгоценный камень с кровью внутри. Несмотря на свои размеры, стоит прилично.";
 
-ITEM_GEM_BLOOD_SMALL_NAME			= "Bloodstone (Small)";
-ITEM_GEM_BLOOD_SMALL_DESC			= "A small, blood-trapped gemstone. Quite rare and valuable in the city.";
+ITEM_GEM_BLOOD_SMALL_NAME			= "Кровавый Камень (Маленький)";
+ITEM_GEM_BLOOD_SMALL_DESC			= "небольшой драгоценный камень с кровью внутри. Считается редким и очень ценится в городе.";
 
-ITEM_GEM_EMERALD_LARGE_NAME			= "Emerald Gem (Large)";
-ITEM_GEM_EMERALD_LARGE_DESC			= "A large, glistening emerald gem. Can be sold. Emeralds are rumored to be the gemstone of the madman, inducing one to embrace chaos and furor.";
+ITEM_GEM_EMERALD_LARGE_NAME			= "Изумруд (Большой)";
+ITEM_GEM_EMERALD_LARGE_DESC			= "Большой блестящий изумруд. Может быть продан. Ходят слухи, что изумруд - это драгоценный камень безумцев, погружающий человека в неистовство.";
 
-ITEM_HORN_ULMAR_NAME				= "Horn of Ulmar";
-ITEM_HORN_ULMAR_DESC				= "A prized, ivory horn from the Old Kingdom. It is told that these horns could once sing across entire realms, but their power has long since faded.";
+ITEM_HORN_ULMAR_NAME				= "Рог Ульмара";
+ITEM_HORN_ULMAR_DESC				= "Ценный рог из слоновой кости из Старого Королевства. Рассказывают, что когда-то песнь этих рогов могли раздаваться по целым королевствам, но их сила давно угасла.";
 
-ITEM_RING_EMERALD_NAME				= "Emerald Ring";
-ITEM_RING_EMERALD_DESC				= "A ring with an emerald gem. Emeralds are rumored to be the gemstone of the madman, inducing one to embrace chaos and furor.";
+ITEM_RING_EMERALD_NAME				= "Изумрудное кольцо";
+ITEM_RING_EMERALD_DESC				= "Кольцо с изумрудом. Ходят слухи, что изумруд - это драгоценный камень безумцев, погружающий человека в неистовство.";
 
 //-------------------------------------------------------------
 // Seasonal
 
 // Halloween
-ITEM_JACKOLANTERN_NAME				= "Jack-o-Lantern";
-ITEM_JACKOLANTERN_DESC				= "A peculiar carved turnip in the shape of a face. A local, seasonal custom perhaps?";
+ITEM_JACKOLANTERN_NAME				= "Репка-фонарь";
+ITEM_JACKOLANTERN_DESC				= "Репка с вырезами в виде лица. Это что, некий местный осенний обычай?";
