@@ -380,3 +380,13 @@ KEY_MENU				= "Menu";
 // Intro
 INTRO_NEWBLOOD					= "New Blood Interactive\nпредставляет";
 INTRO_DEVELOPERS				= "Игра создана\nДиллоном Роджерсом и Дэвидом Шимански";
+
+/* Volatile Additions
+This section contains items that currently do not have localization component.
+That component gets added on the fly and IDs here are generated automatically.
+IDs are derived from GameObject name and original text, and they could easily change between versions.
+*/
+
+Text_TMP_cancel = "Отмена";
+Text_TMP_delete = "Удалить";
+Text_TMP_load   = "Загрузить";
