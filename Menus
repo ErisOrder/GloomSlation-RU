@@ -7,10 +7,10 @@ TITLE_STARTGAME			= "Начать";
 
 // New Game Menu
 MENU_NEWGAME_TITLE		= "Новая игра";
-DIFFICULTY_SELECT		= "Выберите сложность";
-DIFFICULTY_NAME_EASY	= "Полумесяц";
+DIFFICULTY_SELECT		= "Сложность";
+DIFFICULTY_NAME_EASY	= "Молодая луна";
 DIFFICULTY_NAME_MEDIUM	= "Обычная луна";
-DIFFICULTY_NAME_HARD	= "Полная луна";
+DIFFICULTY_NAME_HARD	= "Полнолуние";
 DIFFICULTY_NAME_EXPERT	= "Кровавая луна";
 DIFFICULTY_NAME_CUSTOM	= "Синяя луна";
 DIFFICULTY_DESC_EASY	= "Для игроков, не знакомых с жанром Survival-Horror, и тех, кто хочет исследовать мир";
@@ -381,12 +381,75 @@ KEY_MENU				= "Menu";
 INTRO_NEWBLOOD					= "New Blood Interactive\nпредставляет";
 INTRO_DEVELOPERS				= "Игра создана\nДиллоном Роджерсом и Дэвидом Шимански";
 
+
 /* Volatile Additions
 This section contains items that currently do not have localization component.
 That component gets added on the fly and IDs here are generated automatically.
 IDs are derived from GameObject name and original text, and they could easily change between versions.
 */
 
+
+//First Menu Screen
+Text_TMP_New_Game = "Новая Игра";
+Text_TMP_Load_Game = "Загрузить";
+Text_TMP_Settings = "Настройки";
+Text_TMP_Quit_Game = "Выйти из Игры";
+
+//Settings Screen
+MedicalHistoryRecord_MEDICAL_HISTORY_RECORD = "КАРТОЧКА ПАЦИЕНТА";
+Jargon_APPROVED_FOR_CONSIDERATION_BY_THE_PRIMARY_LICENSED_MEDICAL_AUTHORITY = "ОДОБРЕНО ДЛЯ РАССМОТРЕНИЯ\nГЛАВНЫМ ЛИЦЕНЗИРОВАННЫМ\nМЕДИЦИНСКИМ ОРГАНОМ";
+Age_Age_ = "Возраст:";
+ForPatient_For_Patient_ = "Пациент:";
+Text_TMP_Brightness_Gamma_and_Contrast_Settings = "Яркость, гамма,\nи контраст";
+
+//Input Settings Menu
+Header_DRAFTED_PER_THE_INSTRUCTIONS_OF_THE_OFFICES_OF_GLOOMWOOD_A_LEDGER_OF_BINDINGS_TO_BE_USED_FOR_NAVIGATION_AND_ACTIONS = "СОСТАВЛЕНО В СООТВЕТСТВИИ С ИНСТРУКЦИЯМИ ОФИСОВ ГЛУМВУДА: РЕЕСТР НАЗНАЧЕНИЙ, ИСПОЛЬЗУЕМЫЙ ДЛЯ НАВИГАЦИИ И ДЕЙСТВИЙ";
+Footer_I______________________HEREBY_DECLARE_THIS_LIST_TO_BE_TRUE_AND_TO_UTILIZE_THESE_BINDINGS_FORTHWITH_UPON_ACCEPTANCE_OR_TO_RESET_THEM_TO_THE_ORIGINAL_VALUES_IN_THE_EVENT_OF_PERSONAL_OR_CLERICAL_ERROR_AS_FOLLOWS_ = "Я, ____________________, НАСТОЯЩИМ ЗАЯВЛЯЮ, ЧТО ЭТОТ СПИСОК СООТВЕТСТВУЕТ ДЕЙСТВИТЕЛЬНОСТИ, И ИСПОЛЬЗУЮ ЭТИ НАЗНАЧЕНИЯ НЕМЕДЛЕННО ИЛИ ВЕРНУ ИХ К ИСХОДНЫМ ЗНАЧЕНИЯМ В СЛУЧАЕ ПЕРСОНАЛЬНОЙ ИЛИ ТЕХНИЧЕСКОЙ ОШИБКИ:";
+
+//Load menu
 Text_TMP_cancel = "Отмена";
 Text_TMP_delete = "Удалить";
 Text_TMP_load   = "Загрузить";
+Text_FileName_empty = "Пусто";
+Description_save_version_outdated_some_object_data_may_not_load_correctly = "Сохранение устарело!\nОбъекты и данные могут загрузиться неверно";
+Text_FileCompatibility_outdated_save_version_ = "Устаревшее\nсохрание!";
+
+//Delete Menu
+Text_TMP_No = "Нет";
+Text_TMP_Yes = "Да";
+
+//Loading Screen
+LoadingText_Loading = "Загрузка...";
+
+//Back to Main Menu Ticket
+MenuElement_Text_Prompt_Header_ISSUED_BY_THE_GLOOMWOOD_TRANSIT_AUTHORITY = "ВЫДАНО ТРАНЗИТНЫМ УПРАВЛЕНИЕМ ГЛУМВУДА";
+MenuElement_Text_Prompt_SupCenter_ticket_valid_for_ONE_to = "Билет для ОДНОГО на";
+MenuElement_Text_Prompt_SubCenter_on_date_of_purchase = "Действителен в день покупки";
+MenuElement_Text_Prompt_Footer_INVALID_IF_SELECTION_IS_UNCLEAR_OR_LEFT_BLANK = "НЕДЕЙСТВИТЕЛЕН, ЕСЛИ НЕ ЗАПОЛНЕН";
+
+//Quit Game Ticket
+MenuElement_Text_Prompt_Top_Argument_with_a_neighbor_Wife_caught_you_with_a_ladyfriend_Running_from_the_law_If_for_whatever_reason_you_feel_you_must_ = "Достали соседи?\nЖена застукала с любовницей?\nБежите от закона?\nЕсли по какой-то причине вам нужно...";
+MenuElement_Text_Prompt_Bottom_Do_not_fret_Simply_check_the_box_labeled_aye_and_leave_the_card_with_the_gentleman_who_offered_it_If_you_wish_to_refuse_our_services_check_nay_Leave_the_rest_to_us_ = "Не проблема! Просто поставьте галочку возле “АГА” и отдайте\nэту карточку джентльмену, от которого её получили.\nЕсли вы хотите отказаться от наших услуг, отметьте “НЕ-А”.\nОб остальном мы позаботимся.";
+
+//Journal
+Label_Status = "Состояние";
+Label_Documents = "Документы";
+Label_Maps = "Карты";
+
+Header_Text_Status = "Состояние";
+
+Status_Label_Health = "Здоровье";
+Status_Text_Condition = "Состояние";
+Status_Label_Mind = "Разум";
+Status_Text_Fine = "Нормально";
+Status_Label_Effects = "Эффекты";
+Status_Label_Conditions = "Состояния";
+
+Label_Research = "Исследовать";
+Label_Keys = "Ключи";
+Label_Notes = "Записки";
+
+//Merchant Selling Paper
+ Items_Label_Items = "Предмет";
+Value_Label_Value = "Цена";
+Total_Label_Total = "Всего";

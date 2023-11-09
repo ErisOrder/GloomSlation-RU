@@ -5,7 +5,7 @@ CREDIT_PRESENTS					= "Представляет";
 CREDIT_PUBLISHER				= "New Blood Interactive";
 CREDIT_ROLE_LEADDEVELOPER		= "Ведущий разработчик";
 CREDIT_ROLE_DEVELOPER			= "Разработчик";
-CREDIT_ROLE_CODEVELOPER			= "Ко-разработчик";
+CREDIT_ROLE_CODEVELOPER			= "Помощь в разработке";
 CREDIT_ROLE_COMPOSER			= "Музыка";
 
 // Names
