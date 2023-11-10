@@ -407,6 +407,8 @@ Text_TMP_Brightness_Gamma_and_Contrast_Settings = "Яркость, гамма,\n
 //Input Settings Menu
 Header_DRAFTED_PER_THE_INSTRUCTIONS_OF_THE_OFFICES_OF_GLOOMWOOD_A_LEDGER_OF_BINDINGS_TO_BE_USED_FOR_NAVIGATION_AND_ACTIONS = "СОСТАВЛЕНО В СООТВЕТСТВИИ С ИНСТРУКЦИЯМИ ОФИСОВ ГЛУМВУДА: РЕЕСТР НАЗНАЧЕНИЙ, ИСПОЛЬЗУЕМЫЙ ДЛЯ НАВИГАЦИИ И ДЕЙСТВИЙ";
 Footer_I______________________HEREBY_DECLARE_THIS_LIST_TO_BE_TRUE_AND_TO_UTILIZE_THESE_BINDINGS_FORTHWITH_UPON_ACCEPTANCE_OR_TO_RESET_THEM_TO_THE_ORIGINAL_VALUES_IN_THE_EVENT_OF_PERSONAL_OR_CLERICAL_ERROR_AS_FOLLOWS_ = "Я, ____________________, НАСТОЯЩИМ ЗАЯВЛЯЮ, ЧТО ЭТОТ СПИСОК СООТВЕТСТВУЕТ ДЕЙСТВИТЕЛЬНОСТИ, И ИСПОЛЬЗУЮ ЭТИ НАЗНАЧЕНИЯ НЕМЕДЛЕННО ИЛИ ВЕРНУ ИХ К ИСХОДНЫМ ЗНАЧЕНИЯМ В СЛУЧАЕ ПЕРСОНАЛЬНОЙ ИЛИ ТЕХНИЧЕСКОЙ ОШИБКИ:";
+MenuElement_Label_RESET = "СБРОСИТЬ";
+MenuElement_Label_ACCEPT = "СОХРАНИТЬ";
 
 //Load menu
 Text_TMP_cancel = "Отмена";
@@ -415,7 +417,10 @@ Text_TMP_load   = "Загрузить";
 Text_FileName_empty = "Пусто";
 Title_load_this_save_ = "Удалить сохранение?";
 Description_save_version_outdated_some_object_data_may_not_load_correctly = "Сохранение устарело!\nОбъекты и данные могут загрузиться неверно";
+ Description_this_action_can_not_be_undone_ = "Это действие нельзя отменить!";
 Text_FileCompatibility_outdated_save_version_ = "Устаревшее\nсохрание!";
+Title_load_this_save_ = "Загрузить сохранение?";
+Title_delete_this_save_ = "Удалить сохранение?";
 
 //Delete Menu
 Text_TMP_No = "Нет";
@@ -453,6 +458,6 @@ Label_Keys = "Ключи";
 Label_Notes = "Записки";
 
 //Merchant Selling Paper
- Items_Label_Items = "Предмет";
+Items_Label_Items = "Предмет";
 Value_Label_Value = "Цена";
 Total_Label_Total = "Всего";
