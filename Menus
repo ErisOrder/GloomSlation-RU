@@ -414,13 +414,14 @@ MenuElement_Label_ACCEPT = "СОХРАНИТЬ";
 Text_TMP_cancel = "Отмена";
 Text_TMP_delete = "Удалить";
 Text_TMP_load   = "Загрузить";
+Text_TMP_save = "Сохранить";
 Text_FileName_empty = "Пусто";
-Title_load_this_save_ = "Удалить сохранение?";
 Description_save_version_outdated_some_object_data_may_not_load_correctly = "Сохранение устарело!\nОбъекты и данные могут загрузиться неверно";
  Description_this_action_can_not_be_undone_ = "Это действие нельзя отменить!";
 Text_FileCompatibility_outdated_save_version_ = "Устаревшее\nсохрание!";
 Title_load_this_save_ = "Загрузить сохранение?";
 Title_delete_this_save_ = "Удалить сохранение?";
+Title_overwrite_this_save_ = "Перезаписать сохранение?";
 
 //Delete Menu
 Text_TMP_No = "Нет";
@@ -460,4 +461,4 @@ Label_Notes = "Записки";
 //Merchant Selling Paper
 Items_Label_Items = "Предмет";
 Value_Label_Value = "Цена";
-Total_Label_Total = "Всего";
+Total_Label_Total = "Итого";
