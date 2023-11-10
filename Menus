@@ -460,4 +460,4 @@ Label_Notes = "Записки";
 //Merchant Selling Paper
 Items_Label_Items = "Предмет";
 Value_Label_Value = "Цена";
-Total_Label_Total = "Всего";
+Total_Label_Total = "Итого";
