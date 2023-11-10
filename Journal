@@ -3,5 +3,5 @@ NONE							= "";
 // Status Health
 CONDITION						= "Состояние";
 CONDITION_FINE					= "Хорошее";
-CONDITION_CAUTION				= "Серьезное";
-CONDITION_DANGER				= "Тяжелое";
+CONDITION_CAUTION				= "Серьёзное";
+CONDITION_DANGER				= "Тяжёлое";
