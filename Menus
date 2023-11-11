@@ -16,15 +16,15 @@ DIFFICULTY_NAME_CUSTOM	= "Синяя луна";
 DIFFICULTY_DESC_EASY	= "Для игроков, не знакомых с жанром Survival-Horror, и тех, кто хочет исследовать мир";
 DIFFICULTY_DESC_MEDIUM	= "Для игроков, которые немного знакомы с играми жанра Survival-Horror.";
 DIFFICULTY_DESC_HARD	= "Для игроков, которые хорошо знакомы с играми жанра Survival-Horror.";
-DIFFICULTY_DESC_EXPERT	= "Для ветеранов жанра Survival-Horror, настоящая пытка.";
+DIFFICULTY_DESC_EXPERT	= "Испытание для ветеранов жанра Survival-Horror.";
 DIFFICULTY_FEAT_EASY	= "-Много ресурсов\n-Мало врагов\n-Враги слабы, медлительны и невнимательны\n-Быстр. сохр. и Быстр. загр. разрешены";
 DIFFICULTY_FEAT_MEDIUM	= "-Среднее количество ресурсов\n-Среднее количество врагов\n-Урон, скорость и внимательность врагов на среднем уровне\n-Сохранения только с помощью Фонографов";
 DIFFICULTY_FEAT_HARD	= "-Мало ресурсов\n-Много врагов\n-Враги сильные, быстрые и внимательные\n-Сохранения только с помощью Фонографов";
-DIFFICULTY_FEAT_EXPERT	= "-Очень мало ресурсов\n-Очень много врагов\n-Враги очень сильные, чень быстрые и очень внимательные\n-Сохранения только с помощью Фонографов и Восковых Цилиндров";
+DIFFICULTY_FEAT_EXPERT	= "-Очень мало ресурсов\n-Очень много врагов\n-Враги очень сильные, очень быстрые и очень внимательные\n-Сохранения только с помощью Фонографов и Восковых Цилиндров";
 
 // Saved Game Message
 UI_SAVEMESSAGE			= "Сохранено";
-UI_QUICKSAVE_DISALLOW   = "Быстр. сохр. запрещены";
+UI_QUICKSAVE_DISALLOW   = "Быстрые сохранения запрещены";
 UI_AUTOSAVE				= "Автосохранение";
 
 // Brightness Menu
@@ -34,7 +34,7 @@ MENU_BRIGHTNESS_PROMPT	= "Передвигайте ползунки, пока и
 // Generic
 MENU_CONFIRM			= "Ага";
 MENU_CANCEL				= "Не-а";
-MENU_NEXT				= "ДАЛЬШЕ";
+MENU_NEXT				= "<size=95%>ДАЛЬШЕ";
 MENU_BACK				= "НАЗАД";
 
 // Load Game Menu
@@ -64,7 +64,7 @@ MENU_BCG_CONTRAST		= "КОНТРАСТ";
 OPTION_FORMAT_BULLET	= "{0}:";
 OPTION_FORMAT_COLON		= "{0}:";
 OPTION_ENABLED			= "вкл";
-OPTION_DISABLED			= "выкл";
+OPTION_DISABLED			= "<size=90%>выкл";
 OPTION_YES              = "да";
 OPTION_NO               = "нет";
 OPTION_TOGGLE           = "Нажать";
@@ -75,23 +75,23 @@ OPTION_MEDIUM			= "Средне";
 OPTION_HIGH				= "Высоко";
 OPTION_ULTRA			= "Ультра";
 OPTION_APPLY			= "Применить";
-OPTION_RESET			= "По умолч.";
+OPTION_RESET			= "По умолчанию";
 OPTION_BACK				= "назад";
 OPTION_TUTORIALS		= "Включить обучение";
 OPTION_QUICKSAVE		= "Разрешить быстр. сохр.";
 OPTION_CROSSHAIR		= "Показать перекрестие";
-OPTION_VISIONCONES		= "Показать зрение врагов";
-OPTION_VC_OFF			= "Выкл.";
-OPTION_VC_MONO			= "Белое";
-OPTION_VC_COLORED		= "Цветное";
-OPTION_HIGHLIGHTS		= "Подсказка взаимодействия";
+OPTION_VISIONCONES		= "Подсветка обзора врагов";
+OPTION_VC_OFF			= "Выкл";
+OPTION_VC_MONO			= "Белая";
+OPTION_VC_COLORED		= "Цветная";
+OPTION_HIGHLIGHTS		= "Подсказки взаимодействия";
 OPTION_HL_BRIGHTNESS	= "Яркость";
 OPTION_HL_COLOR			= "Цвет";
-OPTION_HL_COLOR_R		= "Красный";
-OPTION_HL_COLOR_G		= "Зелёный";
-OPTION_HL_COLOR_B		= "Синий";
+OPTION_HL_COLOR_R		= "<size=80%>Красный";
+OPTION_HL_COLOR_G		= "<size=85%>Зелёный";
+OPTION_HL_COLOR_B		= "<size=85%>Синий";
 OPTION_INV_GR_OPACITY	= "Прозрачность сетки инвентаря";
-OPTION_INV_HL_OPACITY	= "Прозрачность выбора в инвентаре";
+OPTION_INV_HL_OPACITY	= "<size=85%>Прозрачность выделения в инвентаре";
 OPTION_ACTIONLOG		= "Лог событий";
 OPTION_ACTLOG_OFF		= "Выключено";
 OPTION_ACTLOG_ON		= "Включено";
@@ -113,7 +113,7 @@ OPTION_FULLSCREEN		= "Полноэкранный";
 OPTION_FS_EXCLUSIVE		= "Полноэкранный";
 OPTION_FS_BORDERLESS	= "В окне без рамки";
 OPTION_FS_WINDOWED		= "В окне";
-OPTION_VSYNC			= "Верт. Синхронизация";
+OPTION_VSYNC			= "Вертикальная Синхронизация";
 OPTION_FRAMERATE		= "Ограничение частоты кадров";
 OPTION_FOV				= "FOV";
 OPTION_BRIGHTNESS		= "Яркость";
@@ -166,7 +166,7 @@ OPTION_SWITCHDRAW		= "Доставать оружие при выборе";
 
 // Brightness Menu
 OPTION_BRIGHT_PROMPT	= "Перемещайте ползунок, пока луна слева не пропадёт.\nПри необходимости измените гамму, пока луна справа не будет хорошо видна";
-OPTION_CONTRAST_PROMPT	= "Перемещайте ползунок, пока цвета станут насыщенными, но не слишком яркими";
+OPTION_CONTRAST_PROMPT	= "Перемещайте ползунок, пока цвета не станут насыщенными, но и не слишком яркими";
 
 // Bindings Menu
 BINDINGS_PROMPT			= "Нажмите любую клавишу";
@@ -187,14 +187,14 @@ INPUT_INVENTORY			= "Инвентарь";
 INPUT_JOURNAL			= "Дневник";
 INPUT_LANTERN			= "Светильник";
 INPUT_ZOOM				= "Разглядеть";
-INPUT_NEXT_WEAPON		= "След. оружие";
-INPUT_PREVIOUS_WEAPON	= "Пред. оружие";
+INPUT_NEXT_WEAPON		= "Следующее оружие";
+INPUT_PREVIOUS_WEAPON	= "Предыдущее оружие";
 INPUT_LAST_WEAPON		= "Последнее оружие";
 INPUT_HOLSTER_WEAPON	= "Спрятать оружие";
 INPUT_RELOAD_WEAPON		= "Перезарядка";
 INPUT_CHANGE_AMMO_TYPE	= "Сменить вид патронов";
 INPUT_PRIMARY_FIRE		= "Основная атака";
-INPUT_SECONDARY_FIRE	= "Доп. атака";
+INPUT_SECONDARY_FIRE	= "Дополнительная атака";
 INPUT_WEAPON_0			= "Оружие 0";
 INPUT_WEAPON_1			= "Оружие 1";
 INPUT_WEAPON_2			= "Оружие 2";
@@ -206,8 +206,8 @@ INPUT_WEAPON_7			= "Оружие 7";
 INPUT_WEAPON_8			= "Оружие 8";
 INPUT_WEAPON_9			= "Оружие 9";
 INPUT_SCREENSHOT		= "Снимок экрана";
-INPUT_QUICKSAVE			= "Быстр. сохр.";
-INPUT_QUICKLOAD			= "Быстр. загр.";
+INPUT_QUICKSAVE			= "Быстрое сохранение";
+INPUT_QUICKLOAD			= "Быстрая загрузка";
 INPUT_MOUSE_BUTTON_0	= "Левая кнопка мыши";
 INPUT_MOUSE_BUTTON_1	= "Правая кнопка мыши";
 INPUT_MOUSE_WHEEL_UP	= "Колесо мыши вверх";
@@ -217,10 +217,10 @@ INPUT_MOUSE_WHEEL_DOWN	= "Колесо мыши вниз";
 MENU_TITLE_PROMPT		= "В ГЛАВНОЕ МЕНЮ";
 
 // Quit Confirm
-MENU_QUIT_PROMPT		= "Покинуть этот злосчастный городишко?";
+MENU_QUIT_PROMPT		= "<size=95%>Покинуть этот злосчастный городишко?";
 
 // Modifiers
-KEY_NONE				= "Не назн.";
+KEY_NONE				= "Не назначено";
 KEY_SHIFT				= "Shift";
 KEY_ALT					= "Alt";
 KEY_CONTROL				= "Ctrl";
@@ -398,10 +398,10 @@ Text_TMP_Quit_Game = "Выйти из Игры";
 MenuElement_Text_Prompt_Header_the_wonders_of_the_phases_of_the_moon = "Чудеса фаз луны";
 
 //Settings Screen
-MedicalHistoryRecord_MEDICAL_HISTORY_RECORD = "КАРТОЧКА ПАЦИЕНТА";
+MedicalHistoryRecord_MEDICAL_HISTORY_RECORD = "ИСТОРИЯ БОЛЕЗНИ";
 Jargon_APPROVED_FOR_CONSIDERATION_BY_THE_PRIMARY_LICENSED_MEDICAL_AUTHORITY = "ОДОБРЕНО ДЛЯ РАССМОТРЕНИЯ\nГЛАВНЫМ ЛИЦЕНЗИРОВАННЫМ\nМЕДИЦИНСКИМ ОРГАНОМ";
-Age_Age_ = "Возраст:";
-ForPatient_For_Patient_ = "Пациент:";
+Age_Age_ = "<size=90%>Возраст:";
+ForPatient_For_Patient_ = "Имя пациента:";
 Text_TMP_Brightness_Gamma_and_Contrast_Settings = "Яркость, гамма,\nи контраст";
 
 //Input Settings Menu
@@ -417,13 +417,13 @@ Text_TMP_load   = "Загрузить";
 Text_TMP_save = "Сохранить";
 Text_FileName_empty = "Пусто";
 Description_save_version_outdated_some_object_data_may_not_load_correctly = "Сохранение устарело!\nОбъекты и данные могут загрузиться неверно";
- Description_this_action_can_not_be_undone_ = "Это действие нельзя отменить!";
+Description_this_action_can_not_be_undone_ = "Это действие нельзя отменить!";
 Text_FileCompatibility_outdated_save_version_ = "Устаревшее\nсохрание!";
 Title_load_this_save_ = "Загрузить сохранение?";
 Title_delete_this_save_ = "Удалить сохранение?";
 Title_overwrite_this_save_ = "Перезаписать сохранение?";
 
-//Delete Menu
+//Delete and Load Menus
 Text_TMP_No = "Нет";
 Text_TMP_Yes = "Да";
 
@@ -432,7 +432,7 @@ LoadingText_Loading = "Загрузка...";
 
 //Back to Main Menu Ticket
 MenuElement_Text_Prompt_Header_ISSUED_BY_THE_GLOOMWOOD_TRANSIT_AUTHORITY = "ВЫДАНО ТРАНЗИТНЫМ УПРАВЛЕНИЕМ ГЛУМВУДА";
-MenuElement_Text_Prompt_SupCenter_ticket_valid_for_ONE_to = "Билет для ОДНОГО на";
+MenuElement_Text_Prompt_SupCenter_ticket_valid_for_ONE_to = "Билет для ОДНОГО, ведущий";
 MenuElement_Text_Prompt_SubCenter_on_date_of_purchase = "Действителен в день покупки";
 MenuElement_Text_Prompt_Footer_INVALID_IF_SELECTION_IS_UNCLEAR_OR_LEFT_BLANK = "НЕДЕЙСТВИТЕЛЕН, ЕСЛИ НЕ ЗАПОЛНЕН";
 
@@ -444,8 +444,15 @@ MenuElement_Text_Prompt_Bottom_Do_not_fret_Simply_check_the_box_labeled_aye_and_
 Label_Status = "Состояние";
 Label_Documents = "Документы";
 Label_Maps = "Карты";
+Label_Research = "Исследования";
+Label_Keys = "Ключи";
+Label_Notes = "Записки";
 
+//These four lines translate headers of journal. I am not sure if the ones above work, but you better translate them too
 Header_Text_Status = "Состояние";
+Header_Text_Documents = "Документы";
+Header_Text_Maps = "Карты";
+Header_Text_Keys = "Ключи";
 
 Status_Label_Health = "Здоровье";
 Status_Text_Condition = "Состояние";
@@ -453,10 +460,6 @@ Status_Label_Mind = "Разум";
 Status_Text_Fine = "Нормально";
 Status_Label_Effects = "Эффекты";
 Status_Label_Conditions = "Состояния";
-
-Label_Research = "Исследовать";
-Label_Keys = "Ключи";
-Label_Notes = "Записки";
 
 //Merchant Selling Paper
 Items_Label_Items = "Предмет";
