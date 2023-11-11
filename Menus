@@ -440,7 +440,7 @@ MenuElement_Text_Prompt_Footer_INVALID_IF_SELECTION_IS_UNCLEAR_OR_LEFT_BLANK = "
 MenuElement_Text_Prompt_Top_Argument_with_a_neighbor_Wife_caught_you_with_a_ladyfriend_Running_from_the_law_If_for_whatever_reason_you_feel_you_must_ = "Достали соседи?\nЖена застукала с любовницей?\nБежите от закона?\nЕсли по какой-то причине вам нужно...";
 MenuElement_Text_Prompt_Bottom_Do_not_fret_Simply_check_the_box_labeled_aye_and_leave_the_card_with_the_gentleman_who_offered_it_If_you_wish_to_refuse_our_services_check_nay_Leave_the_rest_to_us_ = "Не проблема! Просто поставьте галочку возле “АГА” и отдайте\nэту карточку джентльмену, от которого её получили.\nЕсли вы хотите отказаться от наших услуг, отметьте “НЕ-А”.\nОб остальном мы позаботимся.";
 
-//Journal
+//Journal tabs 
 Label_Status = "Состояние";
 Label_Documents = "Документы";
 Label_Maps = "Карты";
@@ -448,7 +448,7 @@ Label_Research = "Исследования";
 Label_Keys = "Ключи";
 Label_Notes = "Записки";
 
-//These four lines translate headers of journal. I am not sure if the ones above work, but you better translate them too
+//Headers inside of journal tabs.
 Header_Text_Status = "Состояние";
 Header_Text_Documents = "Документы";
 Header_Text_Maps = "Карты";
