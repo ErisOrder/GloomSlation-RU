@@ -120,7 +120,7 @@ ITEM_SHOTGUNSHELL_DESC			= "Гильза с картечью для дробов
 ITEM_SHOTGUNSHELLSPENT_NAME		= "Пустая Гильза для Картечи";
 ITEM_SHOTGUNSHELLSPENT_DESC		= "Пустая гильза. Подойдёт для того, чтобы отвлечь внимание.";
 
-ITEM_SHOTGUNSHELLBOX_NAME		= "Коробка с гильзами";
+ITEM_SHOTGUNSHELLBOX_NAME		= "Коробка с патронами";
 ITEM_SHOTGUNSHELLBOX_DESC		= "Истлевшая коробка из-под патронов для дробовика. Когда-то запрещённые в этом регионе, патроны для дробовика вернулись в обиход, поскольку город стал больше полагаться на дичь, чем на импорт товаров.";
 
 ITEM_UNDERTAKER_SLUG_NAME		= "Ударный патрон";
