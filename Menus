@@ -8,8 +8,8 @@ TITLE_STARTGAME			= "Начать";
 // New Game Menu
 MENU_NEWGAME_TITLE		= "Новая игра";
 DIFFICULTY_SELECT		= "Сложность";
-DIFFICULTY_NAME_EASY	= "Молодая луна";
-DIFFICULTY_NAME_MEDIUM	= "Обычная луна";
+DIFFICULTY_NAME_EASY	= "Юная луна";
+DIFFICULTY_NAME_MEDIUM	= "Полумесяц";
 DIFFICULTY_NAME_HARD	= "Полнолуние";
 DIFFICULTY_NAME_EXPERT	= "Кровавая луна";
 DIFFICULTY_NAME_CUSTOM	= "Синяя луна";
