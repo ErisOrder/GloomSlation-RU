@@ -1,7 +1,7 @@
 NONE							= "";
 
 // Inventory
-NOTE_INVENTORY_MANUAL_NAME		= "Чемодана Настоящего Джентльмена";
+NOTE_INVENTORY_MANUAL_NAME		= "Чемодан Настоящего Джентльмена";
 NOTE_INVENTORY_MANUAL_BODY		= "Инструкция {INPUT:LEANLEFT}";
 
 // Readables

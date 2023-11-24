@@ -105,13 +105,13 @@ ITEM_LEVER_HANDLE_NAME			= "Ручка Рычага";
 ITEM_LEVER_HANDLE_DESC			= "Ручка механического рычага.";
 
 // Ammo
-ITEM_REVOLVERROUND_NAME			= "Патрон для Револьвера";
+ITEM_REVOLVERROUND_NAME			= "Револьверный Патрон";
 ITEM_REVOLVERROUND_DESC			= "Одиночный патрон для револьвера. Судя по всему, уже был использован несколько раз. Может послужить для отвлечения внимания.";
 
 ITEM_REVOLVERROUNDSPENT_NAME	= "Гильза от Револьверного Патрона";
 ITEM_REVOLVERROUNDSPENT_DESC	= "Пустая, стреляная гильза от револьвера. Подойдёт для того, чтобы отвлечь внимание.";
 
-ITEM_REVOLVERROUNDBOX_NAME		= "Коробка Патронов для Револьвера";
+ITEM_REVOLVERROUNDBOX_NAME		= "Коробка Револьверных Патронов";
 ITEM_REVOLVERROUNDBOX_DESC		= "Потёртая, промокшая коробка с обычными патронами для револьвера. На лицевой стороне едва различима отметка об утверждении Констеблями.";
 
 ITEM_SHOTGUNSHELL_NAME			= "Патрон для Дробовика";
@@ -120,10 +120,10 @@ ITEM_SHOTGUNSHELL_DESC			= "Гильза с картечью для дробов
 ITEM_SHOTGUNSHELLSPENT_NAME		= "Пустая Гильза для Картечи";
 ITEM_SHOTGUNSHELLSPENT_DESC		= "Пустая гильза. Подойдёт для того, чтобы отвлечь внимание.";
 
-ITEM_SHOTGUNSHELLBOX_NAME		= "Коробка с патронами";
+ITEM_SHOTGUNSHELLBOX_NAME		= "Коробка с Патронами";
 ITEM_SHOTGUNSHELLBOX_DESC		= "Истлевшая коробка из-под патронов для дробовика. Когда-то запрещённые в этом регионе, патроны для дробовика вернулись в обиход, поскольку город стал больше полагаться на дичь, чем на импорт товаров.";
 
-ITEM_UNDERTAKER_SLUG_NAME		= "Ударный патрон";
+ITEM_UNDERTAKER_SLUG_NAME		= "Ударный Патрон";
 ITEM_UNDERTAKER_SLUG_DESC		= "Тяжёлый патрон для Гробовщика. С его помощью можно нажимать кнопки и разбивать стёкла и лампы.";
 
 ITEM_UNDERTAKER_CHOKE_NAME		= "Водяной Патрон";
@@ -159,43 +159,43 @@ ITEM_RIFLE_BROKEN_DESC			= "Кустарное, убогое охотничье 
 
 // Giblets
 ITEM_GIBLET_WOODSMAN_HEAD_NAME		= "Голова Дровосека";
-ITEM_GIBLET_WOODSMAN_HEAD_DESC		= "(Не исследовано)";
+ITEM_GIBLET_WOODSMAN_HEAD_DESC		= "(Не изучено)";
 
 ITEM_GIBLET_WOODSMAN_ARM_LEFT_NAME	= "Рука Дровосека (Левая)";
-ITEM_GIBLET_WOODSMAN_ARM_LEFT_DESC	= "(Не исследовано)";
+ITEM_GIBLET_WOODSMAN_ARM_LEFT_DESC	= "(Не изучено)";
 
 ITEM_GIBLET_WOODSMAN_ARM_RIGHT_NAME	= "Рука Дровосека (Правая)";
-ITEM_GIBLET_WOODSMAN_ARM_RIGHT_DESC	= "(Не исследовано)";
+ITEM_GIBLET_WOODSMAN_ARM_RIGHT_DESC	= "(Не изучено)";
 
 ITEM_GIBLET_WOODSMAN_LEG_LEFT_NAME	= "Нога Дровосека (Левая)";
-ITEM_GIBLET_WOODSMAN_LEG_LEFT_DESC	= "(Не исследовано)";
+ITEM_GIBLET_WOODSMAN_LEG_LEFT_DESC	= "(Не изучено)";
 
 ITEM_GIBLET_WOODSMAN_LEG_RIGHT_NAME	= "Нога Дровосека (Правая)";
-ITEM_GIBLET_WOODSMAN_LEG_RIGHT_DESC	= "(Не исследовано)";
+ITEM_GIBLET_WOODSMAN_LEG_RIGHT_DESC	= "(Не изучено)";
 
 ITEM_GIBLET_HUNTSMAN_HEAD_NAME		= "Голова Охотника";
-ITEM_GIBLET_HUNTSMAN_HEAD_DESC		= "(Не исследовано)";
+ITEM_GIBLET_HUNTSMAN_HEAD_DESC		= "(Не изучено)";
 
 ITEM_GIBLET_HUNTSMAN_ARM_LEFT_NAME	= "Рука Охотника (Левая)";
-ITEM_GIBLET_HUNTSMAN_ARM_LEFT_DESC	= "(Не исследовано)";
+ITEM_GIBLET_HUNTSMAN_ARM_LEFT_DESC	= "(Не изучено)";
 
 ITEM_GIBLET_HUNTSMAN_ARM_RIGHT_NAME	= "Рука Охотника (Правая)";
-ITEM_GIBLET_HUNTSMAN_ARM_RIGHT_DESC	= "(Не исследовано)";
+ITEM_GIBLET_HUNTSMAN_ARM_RIGHT_DESC	= "(Не изучено)";
 
 ITEM_GIBLET_HUNTSMAN_LEG_LEFT_NAME	= "Нога Охотника (Левая)";
-ITEM_GIBLET_HUNTSMAN_LEG_LEFT_DESC	= "(Не исследовано)";
+ITEM_GIBLET_HUNTSMAN_LEG_LEFT_DESC	= "(Не изучено)";
 
 ITEM_GIBLET_HUNTSMAN_LEG_RIGHT_NAME	= "Нога Охотника (Правая)";
-ITEM_GIBLET_HUNTSMAN_LEG_RIGHT_DESC	= "(Не исследовано)";
+ITEM_GIBLET_HUNTSMAN_LEG_RIGHT_DESC	= "(Не изучено)";
 
 ITEM_GIBLET_CITIZEN_MAN_HEAD_NAME	= "Голова Горожанина";
-ITEM_GIBLET_CITIZEN_MAN_HEAD_DESC	= "(Не исследовано)";
+ITEM_GIBLET_CITIZEN_MAN_HEAD_DESC	= "(Не изучено)";
 
 ITEM_GOATMAN_HORN_LEFT_NAME			= "Рог Человека-Козла (Левый)";
-ITEM_GOATMAN_HORN_LEFT_DESC			= "(Не исследовано)";
+ITEM_GOATMAN_HORN_LEFT_DESC			= "(Не изучено)";
 
 ITEM_GOATMAN_HORN_RIGHT_NAME		= "Рог Человека-Козла (Правый)";
-ITEM_GOATMAN_HORN_RIGHT_DESC		= "(Не исследовано)";
+ITEM_GOATMAN_HORN_RIGHT_DESC		= "(Не изучено)";
 
 // Weapons
 ITEM_CANESWORD_NAME					= "Трость с клинком";
