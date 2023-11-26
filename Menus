@@ -424,8 +424,12 @@ Title_delete_this_save_ = "Удалить сохранение?";
 Title_overwrite_this_save_ = "Перезаписать сохранение?";
 
 //Delete and Load Menus
+Text_TMP_no = "Нет";
+Text_TMP_yes = "Да";
 Text_TMP_No = "Нет";
 Text_TMP_Yes = "Да";
+Text_TMP_NO = "Нет";
+Text_TMP_YES = "Да";
 
 //Loading Screen
 LoadingText_Loading = "Загрузка...";
@@ -465,3 +469,12 @@ Status_Label_Conditions = "Состояния";
 Items_Label_Items = "Предмет";
 Value_Label_Value = "Цена";
 Total_Label_Total = "Итого";
+
+//Thank you for playing screen
+Text_ThankYou_Thank_You_for_Playing = "Спасибо, что Поиграли!";
+Text_EarlyAccess_early_access_ = "Ранний Доступ ";
+Text_Upcoming_1_explore_the_depths_of_the = "Дальше вас ждёт исследование";
+Text_Upcoming_2_gradient_Menu_WhiteToGray_b_underport_b_gradient_ = "<gradient=Menu_WhiteToGray><b>Андерпорта</b></gradient>";
+Text_Upcoming_2_gradient_Menu_WhiteToGray_b_coming_soon_b_gradient_ = "<gradient=Menu_WhiteToGray><b>Ожидайте</b></gradient>";
+Label_Keep_Playing = "Продолжить Играть";
+Label_Return_to_Title = "В Главное Меню";
