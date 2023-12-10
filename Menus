@@ -1,9 +1,9 @@
 NONE					= "";
-TITLE_NEWGAME			= "НОВАЯ ИГРА";
-TITLE_LOAD				= "ЗАГРУЗИТЬ";
-TITLE_SETTINGS			= "НАСТРОЙКИ";
-TITLE_QUIT				= "ВЫЙТИ";
-TITLE_STARTGAME			= "НАЧАТЬ";
+TITLE_NEWGAME			= "<size=95%>НОВАЯ ИГРА";
+TITLE_LOAD				= "<space=-1em><size=95%>ЗАГРУЗИТЬ";
+TITLE_SETTINGS			= "<space=0.5em><size=95%>НАСТРОЙКИ";
+TITLE_QUIT				= "<voffset=-0.1em><size=95%>ВЫЙТИ";
+TITLE_STARTGAME			= "<size=95%>НАЧАТЬ";
 
 // New Game Menu
 MENU_NEWGAME_TITLE		= "Новая игра";
@@ -32,8 +32,8 @@ MENU_BRIGHTNESS_TITLE	= "Яркость";
 MENU_BRIGHTNESS_PROMPT	= "Передвигайте ползунки, пока изображение слева не пропадёт";
 
 // Generic
-MENU_CONFIRM			= "Ага";
-MENU_CANCEL				= "Не-а";
+MENU_CONFIRM			= "АГА";
+MENU_CANCEL				= "НЕ-А";
 MENU_NEXT				= "ДАЛЕЕ";
 MENU_BACK				= "НАЗАД";
 
@@ -44,10 +44,10 @@ MENU_LOAD_QUICKSAVE		= "Быстрое Сохранение";
 
 // Pause Menu
 MENU_PAUSE_RESUME		= "Продолжить";
-MENU_PAUSE_LOAD			= "Загрузить";
+MENU_PAUSE_LOAD			= "<margin-left=2em>Загрузить";
 MENU_PAUSE_SETTINGS		= "Настройки";
-MENU_PAUSE_TITLE		= "Главное меню";
-MENU_PAUSE_QUIT			= "Выйти из игры";
+MENU_PAUSE_TITLE		= "<margin-left=1em>Главное меню";
+MENU_PAUSE_QUIT			= "<margin-left=2em>Выход из игры";
 
 // Settings Menu
 MENU_SETTINGS_TITLE		= "НАСТРОЙКИ";
@@ -217,7 +217,7 @@ INPUT_MOUSE_WHEEL_DOWN	= "Колесо мыши вниз";
 MENU_TITLE_PROMPT		= "В ГЛАВНОЕ МЕНЮ";
 
 // Quit Confirm
-MENU_QUIT_PROMPT		= "<size=95%>Покинуть этот злосчастный городишко?";
+MENU_QUIT_PROMPT		= "<size=95%><voffset=-0.45em>Покинуть этот злосчастный городишко?";
 
 // Modifiers
 KEY_NONE				= "Не назначено";
@@ -424,15 +424,15 @@ Title_delete_this_save_ = "Удалить сохранение?";
 Title_overwrite_this_save_ = "Перезаписать сохранение?";
 
 //Delete and Load Menus
-Text_TMP_no = "Нет";
-Text_TMP_yes = "Да";
-Text_TMP_No = "Нет";
-Text_TMP_Yes = "Да";
-Text_TMP_NO = "Нет";
-Text_TMP_YES = "Да";
+Text_TMP_no = "НЕТ";
+Text_TMP_yes = "ДА";
+Text_TMP_No = "НЕТ";
+Text_TMP_Yes = "ДА";
+Text_TMP_NO = "НЕТ";
+Text_TMP_YES = "ДА";
 
 //Loading Screen
-LoadingText_Loading = "Загрузка...";
+LoadingText_Loading = "ЗАГРУЗКА...";
 
 //Back to Main Menu Ticket
 MenuElement_Text_Prompt_Header_ISSUED_BY_THE_GLOOMWOOD_TRANSIT_AUTHORITY = "ВЫДАНО ТРАНЗИТНЫМ УПРАВЛЕНИЕМ ГЛУМВУДА";
