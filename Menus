@@ -1,9 +1,9 @@
 NONE					= "";
-TITLE_NEWGAME			= "Новая Игра";
-TITLE_LOAD				= "Загрузить";
-TITLE_SETTINGS			= "Настройки";
-TITLE_QUIT				= "Выйти";
-TITLE_STARTGAME			= "Начать";
+TITLE_NEWGAME			= "НОВАЯ ИГРА";
+TITLE_LOAD				= "ЗАГРУЗИТЬ";
+TITLE_SETTINGS			= "НАСТРОЙКИ";
+TITLE_QUIT				= "ВЫЙТИ";
+TITLE_STARTGAME			= "НАЧАТЬ";
 
 // New Game Menu
 MENU_NEWGAME_TITLE		= "Новая игра";
@@ -389,10 +389,10 @@ IDs are derived from GameObject name and original text, and they could easily ch
 */
 
 //First Menu Screen
-Text_TMP_New_Game = "Новая Игра";
-Text_TMP_Load_Game = "Загрузить";
-Text_TMP_Settings = "Настройки";
-Text_TMP_Quit_Game = "Выйти из Игры";
+Text_TMP_New_Game = "НОВАЯ ИГРА";
+Text_TMP_Load_Game = "ЗАГРУЗИТЬ";
+Text_TMP_Settings = "НАСТРОЙКИ";
+Text_TMP_Quit_Game = "ВЫЙТИ ИЗ ИГРЫ";
 
 //Choose Difficulty Screen
 MenuElement_Text_Prompt_Header_the_wonders_of_the_phases_of_the_moon = "Чудеса фаз луны";
@@ -478,3 +478,8 @@ Text_Upcoming_2_gradient_Menu_WhiteToGray_b_underport_b_gradient_ = "<gradient=M
 Text_Upcoming_2_gradient_Menu_WhiteToGray_b_coming_soon_b_gradient_ = "<gradient=Menu_WhiteToGray><b>Ожидайте</b></gradient>";
 Label_Keep_Playing = "Продолжить Играть";
 Label_Return_to_Title = "В Главное Меню";
+
+//Maps
+Text_TMP_2F = "2Э";
+Text_TMP_F1 = "1Э";
+Text_TMP_B = "П";
