@@ -432,7 +432,7 @@ Text_TMP_NO = "НЕТ";
 Text_TMP_YES = "ДА";
 
 //Loading Screen
-LoadingText_Loading = "ЗАГРУЗКА...";
+LoadingText_Loading = "<size=95%>ЗАГРУЗКА...";
 
 //Back to Main Menu Ticket
 MenuElement_Text_Prompt_Header_ISSUED_BY_THE_GLOOMWOOD_TRANSIT_AUTHORITY = "ВЫДАНО ТРАНЗИТНЫМ УПРАВЛЕНИЕМ ГЛУМВУДА";
@@ -458,7 +458,7 @@ Header_Text_Documents = "Документы";
 Header_Text_Maps = "Карты";
 Header_Text_Keys = "Ключи";
 
-Status_Label_Health = "Здоровье";
+Status_Label_Health = "Состояние";
 Status_Text_Condition = "Состояние";
 Status_Label_Mind = "Разум";
 Status_Text_Fine = "Нормально";
