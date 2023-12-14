@@ -38,9 +38,9 @@ MENU_NEXT				= "ДАЛЕЕ";
 MENU_BACK				= "НАЗАД";
 
 // Load Game Menu
-MENU_LOAD_TITLE			= "Загрузить";
-MENU_LOAD_FILE			= "Файл";
-MENU_LOAD_QUICKSAVE		= "Быстрое Сохранение";
+MENU_LOAD_TITLE			= "ЗАГРУЗИТЬ";
+MENU_LOAD_FILE			= "ФАЙЛ";
+MENU_LOAD_QUICKSAVE		= "БЫСТРОЕ СОХРАНЕНИЕ";
 
 // Pause Menu
 MENU_PAUSE_RESUME		= "Продолжить";
@@ -395,7 +395,7 @@ Text_TMP_Settings = "НАСТРОЙКИ";
 Text_TMP_Quit_Game = "ВЫЙТИ ИЗ ИГРЫ";
 
 //Choose Difficulty Screen
-MenuElement_Text_Prompt_Header_the_wonders_of_the_phases_of_the_moon = "Чудеса фаз луны";
+MenuElement_Text_Prompt_Header_the_wonders_of_the_phases_of_the_moon = "ЧУДЕСА ФАЗ ЛУНЫ";
 
 //Settings Screen
 MedicalHistoryRecord_MEDICAL_HISTORY_RECORD = "ИСТОРИЯ БОЛЕЗНИ";
@@ -411,17 +411,17 @@ MenuElement_Label_RESET = "СБРОСИТЬ";
 MenuElement_Label_ACCEPT = "СОХРАНИТЬ";
 
 //Load menu
-Text_TMP_cancel = "Отмена";
-Text_TMP_delete = "Удалить";
-Text_TMP_load   = "Загрузить";
-Text_TMP_save = "Сохранить";
-Text_FileName_empty = "Пусто";
-Description_save_version_outdated_some_object_data_may_not_load_correctly = "Сохранение устарело!\nОбъекты и данные могут загрузиться неверно";
-Description_this_action_can_not_be_undone_ = "Это действие нельзя отменить!";
-Text_FileCompatibility_outdated_save_version_ = "Устаревшее\nсохрание!";
-Title_load_this_save_ = "Загрузить сохранение?";
-Title_delete_this_save_ = "Удалить сохранение?";
-Title_overwrite_this_save_ = "Перезаписать сохранение?";
+Text_TMP_cancel = "ОТМЕНА";
+Text_TMP_delete = "УДАЛИТЬ";
+Text_TMP_load   = "ЗАГРУЗИТЬ";
+Text_TMP_save = "СОХРАНИТь";
+Text_FileName_empty = "ПУСТО";
+Description_save_version_outdated_some_object_data_may_not_load_correctly = "СОХРАНЕНИЕ УСТАРЕЛО!\nОБЪЕКТЫ И ДАННЫЕ МОГУТ ЗАГРУЗИТЬСЯ НЕВЕРНО";
+Description_this_action_can_not_be_undone_ = "ЭТО ДЕЙСТВИЕ НЕЛЬЗЯ ОТМЕНИТЬ!";
+Text_FileCompatibility_outdated_save_version_ = "УСТАРЕВШЕЕ\nСОХРАНИЕ!";
+Title_load_this_save_ = "ЗАГРУЗИТЬ СОХРАНЕНИЕ?";
+Title_delete_this_save_ = "УДАЛИТЬ СОХРАНЕНИЕ?";
+Title_overwrite_this_save_ = "ПЕРЕЗАПИСАТЬ СОХРАНЕНИЕ?";
 
 //Delete and Load Menus
 Text_TMP_no = "НЕТ";
