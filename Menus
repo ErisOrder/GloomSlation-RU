@@ -1,9 +1,9 @@
 NONE					= "";
-TITLE_NEWGAME			= "<size=95%>НОВАЯ ИГРА";
-TITLE_LOAD				= "<space=-1em><size=95%>ЗАГРУЗИТЬ";
-TITLE_SETTINGS			= "<space=0.5em><size=95%>НАСТРОЙКИ";
-TITLE_QUIT				= "<voffset=-0.1em><size=95%>ВЫЙТИ";
-TITLE_STARTGAME			= "<size=95%>НАЧАТЬ";
+TITLE_NEWGAME			= "<size=95%>Новая игра";
+TITLE_LOAD				= "<space=-1em><size=95%>Загрузить";
+TITLE_SETTINGS			= "<space=0.5em><size=95%>Настройки";
+TITLE_QUIT				= "<voffset=-0.1em><size=95%>Выйти";
+TITLE_STARTGAME			= "<size=95%>Начать";
 
 // New Game Menu
 MENU_NEWGAME_TITLE		= "Новая игра";
@@ -32,15 +32,15 @@ MENU_BRIGHTNESS_TITLE	= "Яркость";
 MENU_BRIGHTNESS_PROMPT	= "Передвигайте ползунки, пока изображение слева не пропадёт";
 
 // Generic
-MENU_CONFIRM			= "АГА";
-MENU_CANCEL				= "НЕ-А";
+MENU_CONFIRM			= "Ага";
+MENU_CANCEL				= "Не-а";
 MENU_NEXT				= "ДАЛЕЕ";
 MENU_BACK				= "НАЗАД";
 
 // Load Game Menu
-MENU_LOAD_TITLE			= "ЗАГРУЗИТЬ";
-MENU_LOAD_FILE			= "ФАЙЛ";
-MENU_LOAD_QUICKSAVE		= "БЫСТРОЕ СОХРАНЕНИЕ";
+MENU_LOAD_TITLE			= "Загрузить";
+MENU_LOAD_FILE			= "Файл";
+MENU_LOAD_QUICKSAVE		= "Быстрое Сохранение";
 
 // Pause Menu
 MENU_PAUSE_RESUME		= "Продолжить";
@@ -128,6 +128,7 @@ OPTION_PROJSHAD_FAR		= "Далеко";
 OPTION_TF				= "Фильтрация текстур";
 OPTION_TF_POINT			= "Точечная";
 OPTION_TF_BILINEAR		= "Билинейная";
+OPTION_AF				= "Анизотропная фильтрация";
 OPTION_LMR				= "Тени";
 OPTION_LMR_LOW			= "Низко";
 OPTION_LMR_MEDIUM		= "Средне";
@@ -158,8 +159,8 @@ OPTION_SUB_MODE_SUB		= "Диалоги";
 OPTION_SUB_MODE_FULL	= "Все";
 
 // Settings Controls Menu
-OPTION_BINDINGS			= "Управление";
-OPTION_GAMEPAD			= "Геймпад (скоро)";
+OPTION_BINDINGS			= "УПРАВЛЕНИЕ";
+OPTION_GAMEPAD			= "ГЕЙМПАД (СКОРО)";
 OPTION_SNEAK			= "Удерживать чтобы красться";
 OPTION_CROUCH			= "Удерживать чтобы присесть";
 OPTION_SWITCHDRAW		= "Доставать оружие при выборе";
@@ -217,7 +218,7 @@ INPUT_MOUSE_WHEEL_DOWN	= "Колесо мыши вниз";
 MENU_TITLE_PROMPT		= "В ГЛАВНОЕ МЕНЮ";
 
 // Quit Confirm
-MENU_QUIT_PROMPT		= "<size=95%><voffset=-0.45em>Покинуть этот злосчастный городишко?";
+MENU_QUIT_PROMPT		= "<size=85%><voffset=-0.45em>Покинуть этот злосчастный городишко?";
 
 // Modifiers
 KEY_NONE				= "Не назначено";
@@ -389,10 +390,10 @@ IDs are derived from GameObject name and original text, and they could easily ch
 */
 
 //First Menu Screen
-Text_TMP_New_Game = "НОВАЯ ИГРА";
-Text_TMP_Load_Game = "ЗАГРУЗИТЬ";
-Text_TMP_Settings = "НАСТРОЙКИ";
-Text_TMP_Quit_Game = "ВЫЙТИ ИЗ ИГРЫ";
+Text_TMP_New_Game = "Новая Игра";
+Text_TMP_Load_Game = "Загрузить";
+Text_TMP_Settings = "Настройки";
+Text_TMP_Quit_Game = "Выйти";
 
 //Choose Difficulty Screen
 MenuElement_Text_Prompt_Header_the_wonders_of_the_phases_of_the_moon = "ЧУДЕСА ФАЗ ЛУНЫ";
@@ -401,8 +402,9 @@ MenuElement_Text_Prompt_Header_the_wonders_of_the_phases_of_the_moon = "ЧУДЕ
 MedicalHistoryRecord_MEDICAL_HISTORY_RECORD = "ИСТОРИЯ БОЛЕЗНИ";
 Jargon_APPROVED_FOR_CONSIDERATION_BY_THE_PRIMARY_LICENSED_MEDICAL_AUTHORITY = "ОДОБРЕНО ДЛЯ РАССМОТРЕНИЯ\nГЛАВНЫМ ЛИЦЕНЗИРОВАННЫМ\nМЕДИЦИНСКИМ ОРГАНОМ";
 Age_Age_ = "<size=90%>Возраст:";
-ForPatient_For_Patient_ = "Имя пациента:";
-Text_TMP_Brightness_Gamma_and_Contrast_Settings = "Яркость, гамма,\nи контраст";
+ForPatient_For_Patient_ = "Имя Пациента:";
+Text_TMP_Brightness_Gamma_and_Contrast_Settings = "ЯРКОСТЬ, ГАММА,\nИ КОНТРАСТ";
+Text_TMP_Reset_To_Defaults = "ПО УМОЛЧАНИЮ";
 
 //Input Settings Menu
 Header_DRAFTED_PER_THE_INSTRUCTIONS_OF_THE_OFFICES_OF_GLOOMWOOD_A_LEDGER_OF_BINDINGS_TO_BE_USED_FOR_NAVIGATION_AND_ACTIONS = "СОСТАВЛЕНО В СООТВЕТСТВИИ С ИНСТРУКЦИЯМИ ОФИСОВ ГЛУМВУДА: РЕЕСТР НАЗНАЧЕНИЙ, ИСПОЛЬЗУЕМЫЙ ДЛЯ НАВИГАЦИИ И ДЕЙСТВИЙ";
@@ -411,28 +413,28 @@ MenuElement_Label_RESET = "СБРОСИТЬ";
 MenuElement_Label_ACCEPT = "СОХРАНИТЬ";
 
 //Load menu
-Text_TMP_cancel = "ОТМЕНА";
-Text_TMP_delete = "УДАЛИТЬ";
-Text_TMP_load   = "ЗАГРУЗИТЬ";
-Text_TMP_save = "СОХРАНИТь";
-Text_FileName_empty = "ПУСТО";
-Description_save_version_outdated_some_object_data_may_not_load_correctly = "СОХРАНЕНИЕ УСТАРЕЛО!\nОБЪЕКТЫ И ДАННЫЕ МОГУТ ЗАГРУЗИТЬСЯ НЕВЕРНО";
-Description_this_action_can_not_be_undone_ = "ЭТО ДЕЙСТВИЕ НЕЛЬЗЯ ОТМЕНИТЬ!";
-Text_FileCompatibility_outdated_save_version_ = "УСТАРЕВШЕЕ\nСОХРАНИЕ!";
-Title_load_this_save_ = "ЗАГРУЗИТЬ СОХРАНЕНИЕ?";
-Title_delete_this_save_ = "УДАЛИТЬ СОХРАНЕНИЕ?";
-Title_overwrite_this_save_ = "ПЕРЕЗАПИСАТЬ СОХРАНЕНИЕ?";
+Text_TMP_cancel = "Отмена";
+Text_TMP_delete = "Удалить";
+Text_TMP_load   = "Загрузить";
+Text_TMP_save = "Сохранить";
+Text_FileName_empty = "Пусто";
+Description_save_version_outdated_some_object_data_may_not_load_correctly = "Сохранение устарело!\nОбъекты и данные могут загрузиться неверно";
+Description_this_action_can_not_be_undone_ = "Это действие нельзя отменить!";
+Text_FileCompatibility_outdated_save_version_ = "Устаревшее\nСохрание!";
+Title_load_this_save_ = "Загрузить сохранение?";
+Title_delete_this_save_ = "Удалить сохранение?";
+Title_overwrite_this_save_ = "Перезаписать сохранение?";
 
 //Delete and Load Menus
-Text_TMP_no = "НЕТ";
-Text_TMP_yes = "ДА";
-Text_TMP_No = "НЕТ";
-Text_TMP_Yes = "ДА";
-Text_TMP_NO = "НЕТ";
-Text_TMP_YES = "ДА";
+Text_TMP_no = "Нет";
+Text_TMP_yes = "Да";
+Text_TMP_No = "Нет";
+Text_TMP_Yes = "Да";
+Text_TMP_NO = "Нет";
+Text_TMP_YES = "Да";
 
 //Loading Screen
-LoadingText_Loading = "<size=95%>ЗАГРУЗКА...";
+LoadingText_Loading = "<size=90%>Загрузка...";
 
 //Back to Main Menu Ticket
 MenuElement_Text_Prompt_Header_ISSUED_BY_THE_GLOOMWOOD_TRANSIT_AUTHORITY = "ВЫДАНО ТРАНЗИТНЫМ УПРАВЛЕНИЕМ ГЛУМВУДА";

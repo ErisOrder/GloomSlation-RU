@@ -54,6 +54,8 @@ TUTORIAL_MONOCLE_ZOOM			= "Используйте {ZOOM}, чтобы Разгл�
 TUTORIAL_SHOP_SELL				= "Положите Ваши предметы на {PLACEMAT}, чтобы Продать";
 TUTORIAL_SHOP_SELL_PLACEMAT		= "Коврик";
 
+ACTIONLOG_INVENTORY_INVALIDPOS	= "Недостаточно места для чемодана";
+ACTIONLOG_INVENTORY_FULL		= "Чемодан полон";
 ACTIONLOG_PICKUP_READABLE		= "Подобрано {READABLE}";
 ACTIONLOG_PICKUP_KEY			= "Подобран {ITEM}";
 ACTIONLOG_PICKUP_REQUIREMENT	= "Требуется {ITEM}";
