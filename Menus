@@ -14,9 +14,9 @@ DIFFICULTY_NAME_HARD	= "Полнолуние";
 DIFFICULTY_NAME_EXPERT	= "Кровавая луна";
 DIFFICULTY_NAME_CUSTOM	= "Синяя луна";
 DIFFICULTY_DESC_EASY	= "<line-height=40%>Для игроков, не знакомых с жанром Survival-Horror, и тех, кто хочет исследовать мир";
-DIFFICULTY_DESC_MEDIUM	= "<line-height=40%>Для игроков, которые немного знакомы с играми жанра Survival-Horror.";
-DIFFICULTY_DESC_HARD	= "<line-height=40%>Для игроков, которые хорошо знакомы с играми жанра Survival-Horror.";
-DIFFICULTY_DESC_EXPERT	= "<line-height=40%>Испытание для ветеранов жанра Survival-Horror.";
+DIFFICULTY_DESC_MEDIUM	= "<line-height=40%><voffset=1em>Для игроков, которые немного знакомы с играми жанра Survival-Horror.";
+DIFFICULTY_DESC_HARD	= "<line-height=40%><voffset=1em>Для игроков, которые хорошо знакомы с играми жанра Survival-Horror.";
+DIFFICULTY_DESC_EXPERT	= "<line-height=40%><voffset=1em>Испытание для ветеранов жанра Survival-Horror.";
 DIFFICULTY_FEAT_EASY	= "<line-height=40%>- Много ресурсов\n- Мало врагов\n- Враги слабы, медлительны и невнимательны\n- Быстр. сохр. и Быстр. загр. разрешены";
 DIFFICULTY_FEAT_MEDIUM	= "<line-height=40%>- Среднее количество ресурсов\n- Среднее количество врагов\n- Урон, скорость и внимательность врагов на среднем уровне\n- Сохранения только с помощью Фонографов";
 DIFFICULTY_FEAT_HARD	= "<line-height=40%>- Мало ресурсов\n- Много врагов\n- Враги сильные, быстрые и внимательные\n- Сохранения только с помощью Фонографов";
@@ -47,7 +47,7 @@ MENU_PAUSE_RESUME		= "Продолжить";
 MENU_PAUSE_LOAD			= "<margin-left=2em>Загрузить";
 MENU_PAUSE_SETTINGS		= "Настройки";
 MENU_PAUSE_TITLE		= "<margin-left=1em>Главное меню";
-MENU_PAUSE_QUIT			= "<margin-left=2em>Выход из игры";
+MENU_PAUSE_QUIT			= "<margin-left=2em>Выйти из игры";
 
 // Settings Menu
 MENU_SETTINGS_TITLE		= "НАСТРОЙКИ";
@@ -57,8 +57,8 @@ MENU_SETTINGS_VIDEO		= "ВИЗУАЛ";
 MENU_SETTINGS_AUDIO		= "ЗВУК";
 MENU_SETTINGS_CONTROLS	= "УПРАВЛЕНИЕ";
 MENU_SETTINGS_INPUT		= "УПРАВЛЕНИЕ";
-MENU_BCG_BRIGHTNESS		= "ЯРКОСТЬ / ГАММА";
-MENU_BCG_CONTRAST		= "КОНТРАСТ";
+MENU_BCG_BRIGHTNESS		= "<voffset=0.25em>ЯРКОСТЬ / ГАММА";
+MENU_BCG_CONTRAST		= "<voffset=0.25em>КОНТРАСТ";
 
 // Settings Gameplay Menu
 OPTION_FORMAT_BULLET	= "{0}:";
@@ -76,7 +76,7 @@ OPTION_HIGH				= "Высоко";
 OPTION_ULTRA			= "Ультра";
 OPTION_APPLY			= "Применить";
 OPTION_RESET			= "По умолчанию";
-OPTION_BACK				= "назад";
+OPTION_BACK				= "Назад";
 OPTION_TUTORIALS		= "Включить обучение";
 OPTION_QUICKSAVE		= "Разрешить быстр. сохр.";
 OPTION_CROSSHAIR		= "Показать перекрестие";
