@@ -423,7 +423,10 @@ Description_this_action_can_not_be_undone_ = "Это действие нельз
 Text_FileCompatibility_outdated_save_version_ = "Устаревшее\nСохрание!";
 Title_load_this_save_ = "Загрузить сохранение?";
 Title_delete_this_save_ = "Удалить сохранение?";
+MENU_SAVE_DELETE_MODAL_TITLE = "Удалить сохранение?";
 Title_overwrite_this_save_ = "Перезаписать сохранение?";
+MENU_SAVE_OVERWRITE_MODAL_TITLE = "Перезаписать сохранение?";
+
 
 //Delete and Load Menus
 Text_TMP_no = "Нет";
