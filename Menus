@@ -425,6 +425,7 @@ Text_FileCompatibility_outdated_save_version_ = "Устаревшее\nСохр�
 Title_load_this_save_ = "Загрузить сохранение?";
 Title_delete_this_save_ = "Удалить сохранение?";
 MENU_SAVE_DELETE_MODAL_TITLE = "Удалить сохранение?";
+MENU_SAVE_MODAL_DESC = "Это действие нельзя отменить!";
 Title_overwrite_this_save_ = "Перезаписать сохранение?";
 MENU_SAVE_OVERWRITE_MODAL_TITLE = "Перезаписать сохранение?";
 
