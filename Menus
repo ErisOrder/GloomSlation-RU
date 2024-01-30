@@ -70,6 +70,7 @@ OPTION_NO               = "<voffset=0.25em>нет";
 OPTION_TOGGLE           = "<voffset=0.25em>Нажать";
 OPTION_HOLD             = "<voffset=0.25em>Держать";
 OPTION_OFF				= "<voffset=0.25em>Выкл.";
+OPTION_BLOB				= "<voffset=0.25em>Простые";
 OPTION_LOW				= "<voffset=0.25em>Низко";
 OPTION_MEDIUM			= "<voffset=0.25em>Средне";
 OPTION_HIGH				= "<voffset=0.25em>Высоко";
