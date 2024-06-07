@@ -396,6 +396,12 @@ Text_TMP_Load_Game = "Загрузить";
 Text_TMP_Settings = "Настройки";
 Text_TMP_Quit_Game = "Выйти";
 
+//Underport Menu Screen
+Label_new_game = = "Новая Игра";
+Label_load = "Загрузить";
+Label_settings = "Настройки";
+Label_quit = "Выйти";
+
 //Choose Difficulty Screen
 MenuElement_Text_Prompt_Header_the_wonders_of_the_phases_of_the_moon = "ЧУДЕСА ФАЗ ЛУНЫ";
 
