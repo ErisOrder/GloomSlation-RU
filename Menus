@@ -486,11 +486,12 @@ Total_Label_Total = "Итого";
 //Thank you for playing screen
 Text_ThankYou_Thank_You_for_Playing = "Спасибо, что Поиграли!";
 Text_EarlyAccess_early_access_ = "Ранний Доступ ";
-Text_Upcoming_1_explore_the_depths_of_the = "Дальше вас ждёт исследование";
-Text_Upcoming_2_gradient_Menu_WhiteToGray_b_underport_b_gradient_ = "<gradient=Menu_WhiteToGray><b>Андерпорта</b></gradient>";
-Text_Upcoming_2_gradient_Menu_WhiteToGray_b_coming_soon_b_gradient_ = "<gradient=Menu_WhiteToGray><b>Ожидайте</b></gradient>";
 Label_Keep_Playing = "Продолжить Играть";
 Label_Return_to_Title = "В Главное Меню";
+
+Text_Upcoming_1_survive_the_infestation_of = "Переживёте ли вы заражённый";
+Text_Upcoming_2_gradient_Menu_WhiteToGray_b_the_hive_b_gradient_ = "<gradient="Menu_WhiteToGray"><b>Улей</b></gradient>";
+Text_Upcoming_2_gradient_Menu_WhiteToGray_b_coming_soon_b_gradient_ = "<gradient="Menu_WhiteToGray"><b>Скоро!</b></gradient>";
 
 //Maps
 Text_TMP_2F = "2Э";
