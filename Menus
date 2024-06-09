@@ -489,9 +489,9 @@ Text_EarlyAccess_early_access_ = "Ранний Доступ ";
 Label_Keep_Playing = "Продолжить Играть";
 Label_Return_to_Title = "В Главное Меню";
 
-Text_Upcoming_1_survive_the_infestation_of = "Переживёте ли вы заражённый";
-Text_Upcoming_2_gradient_Menu_WhiteToGray_b_the_hive_b_gradient_ = "<gradient="Menu_WhiteToGray"><b>Улей</b></gradient>";
-Text_Upcoming_2_gradient_Menu_WhiteToGray_b_coming_soon_b_gradient_ = "<gradient="Menu_WhiteToGray"><b>Скоро!</b></gradient>";
+Text_Upcoming_1_survive_the_infestation_of = "Переживёте ли поход в полный тварей";
+Text_Upcoming_2_gradient_Menu_WhiteToGray_b_the_hive_b_gradient_ = "<gradient=Menu_WhiteToGray><b>Улей</b></gradient>";
+Text_Upcoming_2_gradient_Menu_WhiteToGray_b_coming_soon_b_gradient_ = "<gradient=Menu_WhiteToGray><b>Скоро!</b></gradient>";
 
 //Maps
 Text_TMP_2F = "2Э";
