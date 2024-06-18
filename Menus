@@ -1,9 +1,9 @@
 NONE					= "";
-TITLE_NEWGAME			= "<size=95%>Новая игра";
-TITLE_LOAD				= "<space=-1em><size=95%>Загрузить";
-TITLE_SETTINGS			= "<space=0.5em><size=95%>Настройки";
-TITLE_QUIT				= "<voffset=-0.1em><size=95%>Выйти";
-TITLE_STARTGAME			= "<size=95%>Начать";
+TITLE_NEWGAME			= "Новая игра";
+TITLE_LOAD				= "Загрузить";
+TITLE_SETTINGS			= "Настройки";
+TITLE_QUIT				= "Выйти";
+TITLE_STARTGAME			= "Начать";
 
 // New Game Menu
 MENU_NEWGAME_TITLE		= "Новая игра";
