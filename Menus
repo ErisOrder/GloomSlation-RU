@@ -187,6 +187,7 @@ INPUT_SNEAK				= "Красться";
 INPUT_INTERACT			= "Использовать";
 INPUT_INVENTORY			= "Инвентарь";
 INPUT_JOURNAL			= "Дневник";
+INPUT_MAP				= "Карта";
 INPUT_LANTERN			= "Светильник";
 INPUT_ZOOM				= "Разглядеть";
 INPUT_NEXT_WEAPON		= "Следующее оружие";
