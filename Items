@@ -445,11 +445,11 @@ KEY_FISHERY_CARRIAGE_BACKDOOR_DESC	= "Ключ к Черному ходу пов
 KEY_FISHERY_CARRIAGE_BASEMENT_NAME	= "Ключ к подвалу повозочной станции Рыбзавода";
 KEY_FISHERY_CARRIAGE_BASEMENT_DESC	= "Ключ к подвалу повозочной станции Рыбзавода Мистера Крупа.";
 
-KEY_COAST_FISHERY_CABIN_NAME		= "Ключ к Смотровой Башне Рыбзавода";
-KEY_COAST_FISHERY_CABIN_DESC		= "Ключ к Смотровой Башне Рыбзавода Мистера Крупа.";
+KEY_COAST_FISHERY_CABIN_NAME		= "Ключ к лачуге возле Рыбзавода";
+KEY_COAST_FISHERY_CABIN_DESC		= "Ключ к лачуге возле Рыбзавода Мистера Крупа.";
 
-KEY_FISHERY_CABIN_SHORTCUT_NAME		= "Ключ к Туннелю в Смотровой Башне Рыбзавода";
-KEY_FISHERY_CABIN_SHORTCUT_DESC		= "Ключ к туннелю под башней Рыбзавода Мистера Крупа.";
+KEY_FISHERY_CABIN_SHORTCUT_NAME		= "Ключ к туннелю под лачугой возле Рыбзавода";
+KEY_FISHERY_CABIN_SHORTCUT_DESC		= "Ключ к туннелю под лачугой недалеко от Рыбзавода Мистера Крупа.";
 
 KEY_CAVES_POWERGENERATOR_NAME		= "Ключ к Генераторной Шахт";
 KEY_CAVES_POWERGENERATOR_DESC		= "Ключ к Генераторной в Шахтах Побережья.";
