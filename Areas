@@ -1,0 +1,14 @@
+NONE							= "Нет";
+ALL								= "Все";
+
+// Areas
+LEVEL_OTHER						= "Другое";
+LEVEL_COAST_FISHERY				= "Рыбзавод";
+LEVEL_COAST_CAVES				= "Пещеры";
+LEVEL_COAST_CLIFFSIDE			= "Побережье";
+LEVEL_COAST_TAVERN				= "Таверна";
+LEVEL_CITY_MARKET				= "Рынок";
+LEVEL_CITY_MARKET_SHOP			= "Магазин";
+LEVEL_CITY_UNDERPORT			= "Андерпорт";
+LEVEL_CITY_UNDERPORT_HIVE		= "Улей";
+LEVEL_DIMENSION_MIRROR			= "Зазеркалье";
