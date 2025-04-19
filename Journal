@@ -4,7 +4,7 @@
 TAB_STATUS		= "<size=85%>Состояние";
 TAB_DIAGNOSIS	= "<size=85%>Отчёт";
 TAB_FILES		= "<size=85%>Файлы";
-TAB_DOCUMENTS	= "<size=85%>Документы";
+TAB_DOCUMENTS	= "<size=80%>Документы";
 TAB_MAPS		= "<size=85%>Карты";
 TAB_KEYS		= "<size=85%>Ключи";
 TAB_RESEARCH	= "<size=85%>Исслед.";
