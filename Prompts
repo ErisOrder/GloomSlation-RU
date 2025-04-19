@@ -2,6 +2,24 @@ NONE							= "";
 
 NOTE_INVENTORY_MANUAL_BODY		= "Спасибо Вам за покупку Чемодана Настоящего Джентльмена!\nИнструкция к данному Чемодану:\n\nПереключиться между Снаряжением и Инвентарем:<color=#840601> {INPUT:SNEAK}</color>\n\nЗакрыть Чемодан: <color=#840601> {INPUT:INVENTORY}</color>\n\n\n\ВЫБОР \n\nСлоты Оружия: <color=#840601>{INPUT:SLOT_0}-{INPUT:SLOT_9}</color>\n\nВзять Предмет: <color=#840601>{INPUT:LMB}</color> или <color=#840601>{INPUT:RELOAD}</color>\n\nМеню Взаимодействия: <color=#840601>{INPUT:INTERACT}</color> или <color=#840601>{INPUT:RMB}</color>\n\nОсмотреть Предмет: <color=#840601>{INPUT:LASTWEAPON}</color>\n\nВыкинуть: <color=#840601>{INPUT:ZOOM}</color>\n\n\nРАЗМЕЩЕНИЕ \n\nПоложить Предмет: <color=#840601>{INPUT:LMB}</color>, <color=#840601>{INPUT:INTERACT}</color> или <color=#840601>{INPUT:RELOAD}</color>\n\nПеремещать Предмет: <color=#840601>{INPUT:MOVEFORWARD}</color>, <color=#840601>{INPUT:MOVELEFT}</color>, <color=#840601>{INPUT:MOVEBACKWARD}</color>, <color=#840601>{INPUT:MOVERIGHT}</color>\n\nПовернуть Предмет (Влево): <color=#840601>{INPUT:LEANLEFT}</color>\n\nПовернуть Предмет (Вправо): <color=#840601>{INPUT:LEANRIGHT}</color>\n\nВзять: <color=#840601>{INPUT:INVENTORY}</color></font>";
 
+//-------------------------------------------------------------
+// Action Log
+
+ACTIONLOG_INVENTORY_INVALIDPOS		= "Недостаточно места для чемодана";
+ACTIONLOG_INVENTORY_FULL			= "Чемодан полон";
+ACTIONLOG_PICKUP_READABLE			= "Подобрано {READABLE}";
+ACTIONLOG_PICKUP_KEY				= "Подобран {ITEM}";
+ACTIONLOG_PICKUP_REQUIREMENT		= "Требуется {ITEM}";
+ACTIONLOG_RESEARCH_ITEM				= "{ITEM} исследовано";
+ACTIONLOG_RESEARCH_DUPLICATE_ITEM	= "{ITEM} уже исследован";
+ACTIONLOG_RESEARCH_FORMULA			= "Исследован ингридиент {ITEM}";
+ACTIONLOG_RESEARCH_COMPLETE			= "Анализ {ITEM} завершён";
+ACTIONLOG_DROP_ITEM					= "Чемодан полон - выбросил {ITEM}";
+ACTIONLOG_BEASTFORM_INVALIDUSE		= "Нельзя использовать, будучи Превращённым";
+
+//-------------------------------------------------------------
+// Tutorial
+
 TUTORIAL_USE					= "Использовать";
 TUTORIAL_HOLD					= "Взять";
 TUTORIAL_RELEASE				= "Положить";
@@ -55,9 +73,4 @@ TUTORIAL_AMMOTYPE_BIND			= "Виды патронов можно Быстро М
 TUTORIAL_MONOCLE_ZOOM			= "Используйте {ZOOM}, чтобы Разглядеть что-то с помощью Монокля";
 TUTORIAL_SHOP_SELL				= "Положите Ваши предметы на {PLACEMAT}, чтобы Продать";
 TUTORIAL_SHOP_SELL_PLACEMAT		= "Коврик";
-
-ACTIONLOG_INVENTORY_INVALIDPOS	= "Недостаточно места для чемодана";
-ACTIONLOG_INVENTORY_FULL		= "Чемодан полон";
-ACTIONLOG_PICKUP_READABLE		= "Подобрано {READABLE}";
-ACTIONLOG_PICKUP_KEY			= "Подобран {ITEM}";
-ACTIONLOG_PICKUP_REQUIREMENT	= "Требуется {ITEM}";
+TUTORIAL_RESEARCH_ENABLED		= "Вы чувствуете зов Лаборатории на Маяке";
