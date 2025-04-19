@@ -576,7 +576,7 @@ ITEM_SERUM_FAILED_NAME				= "Неудачная Сыворотка";
 ITEM_SERUM_FAILED_DESC				= "Сыворотка, полученная в результате неудачного эксперимента.";
 
 ITEM_SERUM_CROWMAN_NAME				= "Сыворотка Ворона";
-ITEM_SERUM_CROWMAN_DESC				= "Сыворотка, полученная из образцов Человека-Ворона (Corvus Orthograde). Если вколоть произойдёт временное Превращение.";
+ITEM_SERUM_CROWMAN_DESC				= "Сыворотка, полученная из образцов Человека-Ворона (Corvus Orthograde). Если вколоть, произойдёт временное Превращение.";
 
 ITEM_SERUM_CROWKING_NAME			= "Сыворотка Короля Ворон";
 ITEM_SERUM_CROWKING_DESC			= "Сыворотка, полученная из образцов Короля Ворон.";
@@ -585,10 +585,10 @@ ITEM_SERUM_FISHDOG_NAME				= "Сыворотка Рыбопса";
 ITEM_SERUM_FISHDOG_DESC				= "Сыворотка, полученная из образцов Рыбопса (Canis Aquaticus).";
 
 ITEM_SERUM_BATBARBER_NAME			= "Мышиная Сыворотка";
-ITEM_SERUM_BATBARBER_DESC			= "Сыворотка, полученная из образцов Человека-Нетопыря (Vesper Sapiens). Если вколоть произойдёт временное Превращение.";
+ITEM_SERUM_BATBARBER_DESC			= "Сыворотка, полученная из образцов Человека-Нетопыря (Vesper Sapiens). Если вколоть, произойдёт временное Превращение.";
 
 ITEM_SERUM_GOATMAN_NAME				= "Козлиная Сыворотка";
-ITEM_SERUM_GOATMAN_DESC				= "Сыворотка, полученная из образцов Человека-Козла (Homo Caprae). Если вколоть произойдёт временное Превращение.";
+ITEM_SERUM_GOATMAN_DESC				= "Сыворотка, полученная из образцов Человека-Козла (Homo Caprae). Если вколоть, произойдёт временное Превращение.";
 
 ITEM_SERUM_RAT_NAME					= "Крысиная Сыворотка";
 ITEM_SERUM_RAT_DESC					= "Сыворотка, полученная из образцов Крысы.";
