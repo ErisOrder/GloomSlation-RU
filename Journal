@@ -1,16 +1,16 @@
 //-------------------------------------------------------------
 // Tabs
 
-TAB_STATUS		= "Состояние";
-TAB_DIAGNOSIS	= "Отчёт";
-TAB_FILES		= "Файлы";
-TAB_DOCUMENTS	= "Документы";
-TAB_MAPS		= "Карты";
-TAB_KEYS		= "Ключи";
-TAB_RESEARCH	= "Исследования";
-TAB_ANATOMY		= "Анатомия";
-TAB_PATHOLOGY	= "Патология";
-TAB_ANALYSIS	= "Анализ";
+TAB_STATUS		= "<size=85%>Состояние";
+TAB_DIAGNOSIS	= "<size=85%>Отчёт";
+TAB_FILES		= "<size=85%>Файлы";
+TAB_DOCUMENTS	= "<size=85%>Документы";
+TAB_MAPS		= "<size=85%>Карты";
+TAB_KEYS		= "<size=85%>Ключи";
+TAB_RESEARCH	= "<size=85%>Исслед.";
+TAB_ANATOMY		= "<size=85%>Анатомия";
+TAB_PATHOLOGY	= "<size=85%>Патология";
+TAB_ANALYSIS	= "<size=85%>Анализ";
 
 //-------------------------------------------------------------
 // Header
@@ -23,7 +23,7 @@ HEADER_DOCUMENTS_CONT	= "Документы - Далее";
 HEADER_MAPS				= "Карты";
 HEADER_MAPS_CONT		= "Карты - Далее";
 HEADER_KEYS				= "Ключи";
-HEADER_KEYS_CONT		= "Ключ - Далее";
+HEADER_KEYS_CONT		= "Ключи - Далее";
 HEADER_RESEARCH			= "Исследования";
 HEADER_ANATOMY			= "Анатомия";
 HEADER_PATHOLOGY		= "Патология";
@@ -34,10 +34,10 @@ HEADER_ANALYSIS			= "Анализ";
 
 CONDITION_LIFE			= "Здоровье";
 CONDITION_MIND			= "Разум";
-CONDITION_EXCELLENT		= "Превосходное";
-CONDITION_FINE			= "Хорошее";
-CONDITION_CAUTION		= "Серьёзное";
-CONDITION_DANGER		= "Тяжёлое";
+CONDITION_EXCELLENT		= "Превосходно";
+CONDITION_FINE			= "Хорошо";
+CONDITION_CAUTION		= "Удовлетворительно";
+CONDITION_DANGER		= "Плохо";
 CONDITION_EFFECT_LIST	= "Симптомы";
 
 //-------------------------------------------------------------
@@ -59,14 +59,14 @@ SERUM_UNKNOWN				= "Неизвестная сыворотка";
 IDENTIFIER_HEAD				= "Голова";
 IDENTIFIER_TORSO			= "Тело";
 IDENTIFIER_LEFTARM			= "Левая Рука";
-IDENTIFIER_RIGHTARM			= "Правая Рука 1";
+IDENTIFIER_RIGHTARM			= "Правая Рука";
 IDENTIFIER_RIGHTLEG			= "Правая Нога";
 IDENTIFIER_LEFTLEG			= "Левая Нога";
 IDENTIFIER_PELVIS			= "Таз";
 IDENTIFIER_LEFTHORN			= "Левый Рог";
 IDENTIFIER_RIGHTHORN		= "Правый Рог";
 IDENTIFIER_TAIL				= "Хвост";
-IDENTIFIER_RIGHTHAND		= "Правая Рука 2";
+IDENTIFIER_RIGHTHAND		= "Правая Рука";
 IDENTIFIER_RIGHTUPPERARM	= "Верхняя Правая Рука";
 
 //-------------------------------------------------------------
@@ -75,7 +75,7 @@ IDENTIFIER_RIGHTUPPERARM	= "Верхняя Правая Рука";
 ENTRY_GOATMAN				= "Человек-Козёл - Тип A";
 ENTRY_GOATMAN_SPECIES		= "Homo Caprae";
 
-RESEARCH_GOATMAN_1			= "Представителями рода 'Homo Caprae' являются гуманоиды высотой около трёх метров. Существа передвигаются на двух ногах, и обладают внешним сходством с козами. Структура языка позволяет им издавать звуки, отдалённо похожие на речь.";
+RESEARCH_GOATMAN_1			= "'Homo Caprae' -- это гуманоиды ростом около трёх метров, передвигающиеся на двух ногах, и обладающие внешним сходством с козами. Структура языка позволяет им издавать звуки, отдалённо похожие на речь.";
 RESEARCH_GOATMAN_2			= "Чума сформировала плотные группы мышц по всему телу, а также изменила некоторые кости, создавая рога и копыта из чего-то, что напоминает кератин.";
 RESEARCH_GOATMAN_3			= "Мех, покрывающий существо, делает его уязвимым к огню. Однако если поджечь существо, оно впадёт в гнев. Во время приступа гнева, существо опускается на четвереньки, за счёт чего начинает быстрее перемещаться.";
 RESEARCH_GOATMAN_4			= "Сыворотка, созданная из образцов этого существа, увеличивает физическую силу, прочность тканей тела, а также дальность броска предметов.";

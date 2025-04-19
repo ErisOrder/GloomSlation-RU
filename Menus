@@ -53,7 +53,7 @@ MENU_PAUSE_QUIT			= "<margin-left=2em>Выйти из игры";
 MENU_SETTINGS_TITLE		= "НАСТРОЙКИ";
 MENU_SETTINGS_GAMEPLAY	= "ИГРА";
 MENU_SETTINGS_CAMERA	= "ОБЗОР";
-MENU_SETTINGS_VIDEO		= "ВИЗУАЛ";
+MENU_SETTINGS_VIDEO		= "ГРАФИКА";
 MENU_SETTINGS_AUDIO		= "ЗВУК";
 MENU_SETTINGS_CONTROLS	= "УПРАВЛЕНИЕ";
 MENU_SETTINGS_INPUT		= "УПРАВЛЕНИЕ";
@@ -490,11 +490,11 @@ Text_EarlyAccess_early_access_ = "Ранний Доступ ";
 Label_Keep_Playing = "Продолжить Играть";
 Label_Return_to_Title = "В Главное Меню";
 
-Text_Upcoming_1_survive_the_infestation_of = "Переживёте ли поход в полный тварей";
-Text_Upcoming_2_gradient_Menu_WhiteToGray_b_the_hive_b_gradient_ = "<gradient=Menu_WhiteToGray><b>Улей</b></gradient>";
 Text_Upcoming_2_gradient_Menu_WhiteToGray_b_coming_soon_b_gradient_ = "<gradient=Menu_WhiteToGray><b>Скоро!</b></gradient>";
 
 //Maps
 Text_TMP_2F = "2Э";
 Text_TMP_F1 = "1Э";
 Text_TMP_B = "П";
+UI_Text_Default_Symptoms = "Симптомы";
+UI_Text_Label_Mind = "Разум";
