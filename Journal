@@ -1,16 +1,16 @@
 //-------------------------------------------------------------
 // Tabs
 
-TAB_STATUS		= "<size=85%>Состояние";
-TAB_DIAGNOSIS	= "<size=85%>Отчёт";
-TAB_FILES		= "<size=85%>Файлы";
-TAB_DOCUMENTS	= "<size=80%>Документы";
-TAB_MAPS		= "<size=85%>Карты";
-TAB_KEYS		= "<size=85%>Ключи";
-TAB_RESEARCH	= "<size=85%>Исслед.";
-TAB_ANATOMY		= "<size=85%>Анатомия";
-TAB_PATHOLOGY	= "<size=85%>Патология";
-TAB_ANALYSIS	= "<size=85%>Анализ";
+TAB_STATUS		= "<size=80%>Состояние";
+TAB_DIAGNOSIS	= "<size=80%>Отчёт";
+TAB_FILES		= "<size=80%>Файлы";
+TAB_DOCUMENTS	= "<size=75%>Документы";
+TAB_MAPS		= "<size=80%>Карты";
+TAB_KEYS		= "<size=80%>Ключи";
+TAB_RESEARCH	= "<size=80%>Анализ";
+TAB_ANATOMY		= "<size=80%>Анатомия";
+TAB_PATHOLOGY	= "<size=80%>Патология";
+TAB_ANALYSIS	= "<size=80%>Данные";
 
 //-------------------------------------------------------------
 // Header
@@ -24,10 +24,10 @@ HEADER_MAPS				= "Карты";
 HEADER_MAPS_CONT		= "Карты - Далее";
 HEADER_KEYS				= "Ключи";
 HEADER_KEYS_CONT		= "Ключи - Далее";
-HEADER_RESEARCH			= "Исследования";
+HEADER_RESEARCH			= "Анализ";
 HEADER_ANATOMY			= "Анатомия";
 HEADER_PATHOLOGY		= "Патология";
-HEADER_ANALYSIS			= "Анализ";
+HEADER_ANALYSIS			= "Данные";
 
 //-------------------------------------------------------------
 // Status
