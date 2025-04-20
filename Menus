@@ -496,5 +496,8 @@ Text_Upcoming_2_gradient_Menu_WhiteToGray_b_coming_soon_b_gradient_ = "<gradient
 Text_TMP_2F = "2Э";
 Text_TMP_F1 = "1Э";
 Text_TMP_B = "П";
+
+//New Journal
 UI_Text_Default_Symptoms = "Симптомы";
 UI_Text_Label_Mind = "Разум";
+UI_Text_Label_Specimens = "Существа";
