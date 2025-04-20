@@ -459,7 +459,7 @@ MenuElement_Text_Prompt_Top_Argument_with_a_neighbor_Wife_caught_you_with_a_lady
 MenuElement_Text_Prompt_Bottom_Do_not_fret_Simply_check_the_box_labeled_aye_and_leave_the_card_with_the_gentleman_who_offered_it_If_you_wish_to_refuse_our_services_check_nay_Leave_the_rest_to_us_ = "Не проблема! Просто поставьте галочку возле “АГА” и отдайте\nэту карточку джентльмену, от которого её получили.\nЕсли вы хотите отказаться от наших услуг, отметьте “НЕ-А”.\nОб остальном мы позаботимся.";
 
 //Journal
-Label_Status = "Состояние";
+//Label_Status = "Состояние";
 Label_Documents = "Документы";
 Label_Maps = "Карты";
 Label_Research = "Исследования";
