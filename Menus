@@ -162,8 +162,8 @@ OPTION_SUB_MODE_FULL	= "<voffset=0.25em>Всё";
 // Settings Controls Menu
 OPTION_BINDINGS			= "УПРАВЛЕНИЕ";
 OPTION_GAMEPAD			= "<voffset=0.25em>Геймпад (СКОРО)";
-OPTION_SNEAK			= "<voffset=0.25em>Удерживать чтобы красться";
-OPTION_CROUCH			= "<voffset=0.25em>Удерживать чтобы присесть";
+OPTION_SNEAK			= "<voffset=0.25em>Нажать чтобы красться";
+OPTION_CROUCH			= "<voffset=0.25em>Нажать чтобы присесть";
 OPTION_SWITCHDRAW		= "<voffset=0.25em>Доставать оружие при выборе";
 
 // Brightness Menu
