@@ -446,7 +446,7 @@ Text_TMP_NO = "Нет";
 Text_TMP_YES = "Да";
 
 //Loading Screen
-LoadingText_Loading = "<size=90%>Загрузка...";
+LoadingText_Loading = "Загрузка";
 
 //Back to Main Menu Ticket
 MenuElement_Text_Prompt_Header_ISSUED_BY_THE_GLOOMWOOD_TRANSIT_AUTHORITY = "ВЫДАНО ТРАНЗИТНЫМ УПРАВЛЕНИЕМ ГЛУМВУДА";
