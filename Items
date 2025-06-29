@@ -653,8 +653,8 @@ ITEM_RESEARCH_JAR_10_WORMS_DESC		= "Банка с червями, ползающ
 ITEM_RESEARCH_JAR_11_TONGUES_NAME	= "Банка с Языками";
 ITEM_RESEARCH_JAR_11_TONGUES_DESC	= "Банка с языками животных. Считается, что они помогают бороться с воспалениями.";
 
-ITEM_RESEARCH_JAR_12_SPIDER_NAME    = "Сущёные пауки Taxidermied Spider";
-ITEM_RESEARCH_JAR_12_SPIDER_DESC	= "Банка, наполненная высушенными останками необычайно больих и ядовитых пауков с Далёкого Востока. Очень дорогая.";
+ITEM_RESEARCH_JAR_12_SPIDER_NAME    = "Сущёные пауки";
+ITEM_RESEARCH_JAR_12_SPIDER_DESC	= "Банка, наполненная высушенными останками необычайно больших и ядовитых пауков с Дальнего Востока. Очень дорогая.";
 
 ITEM_RESEARCH_JAR_13_DOLL_NAME		= "Бальзамированная Кукла";
 ITEM_RESEARCH_JAR_13_DOLL_DESC		= "В этой банке хранится кукла с заточённой в ней душой жестоко обманутой молодой девушки.";
