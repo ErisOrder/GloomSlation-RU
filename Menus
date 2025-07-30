@@ -42,6 +42,12 @@ MENU_LOAD_TITLE			= "Загрузить";
 MENU_LOAD_FILE			= "Файл";
 MENU_LOAD_QUICKSAVE		= "Быстрое Сохранение";
 
+// Save Game Menu
+MENU_SAVE_TITLE				    = "Выберите слот сохранения";
+MENU_SAVE_MODAL_DESC		    = "Это действие нельзя отменить!";
+MENU_SAVE_DELETE_MODAL_TITLE    = "Удалить сохранение?";
+MENU_SAVE_OVERWRITE_MODAL_TITLE = "Перезаписать сохранение?";
+
 // Pause Menu
 MENU_PAUSE_RESUME		= "Продолжить";
 MENU_PAUSE_LOAD			= "<margin-left=2em>Загрузить";
@@ -141,6 +147,11 @@ OPTION_AA_2X			= "<voffset=0.25em>2X";
 OPTION_AA_4X			= "<voffset=0.25em>4X";
 OPTION_AA_8X			= "<voffset=0.25em>8X";
 OPTION_LIGHTFLARES		= "<voffset=0.25em>Включить блики";
+OPTION_WEATHERQ		    = "<voffset=0.25em>Качество погодных условий";
+OPTION_WEATHERQ_NORMAL		= "<voffset=0.25em>Средне";
+OPTION_WEATHERQ_LOW			= "<voffset=0.25em>Низко";
+OPTION_WEATHERQ_VERYLOW		= "<voffset=0.25em>Очень низко";
+
 
 // Settings Audio Menu
 OPTION_SPEAKER_MODE		= "<voffset=0.25em>Звук";
