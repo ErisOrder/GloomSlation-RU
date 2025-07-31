@@ -630,8 +630,8 @@ ITEM_SERUM_HUNTSMAN_DESC			= "Сыворотка, полученная из об
 ITEM_RESEARCH_JAR_1_EYEBALLS_NAME	= "Образец Глаз";
 ITEM_RESEARCH_JAR_1_EYEBALLS_DESC	= "Банка с множеством глазных яблок, плавающих в липкой, вязкой жидкости.";
 
-ITEM_RESEARCH_JAR_2_MOUTH_NAME		= "Рты Глотателей";
-ITEM_RESEARCH_JAR_2_MOUTH_DESC		= "Банка ртов глотателей, плавающих в мутной жидкости.";
+ITEM_RESEARCH_JAR_2_MOUTH_NAME		= "Глотка Большерота";
+ITEM_RESEARCH_JAR_2_MOUTH_DESC		= "Банка с глоткой большерота, рыбы, обитающей в мутной жидкости.";
 
 ITEM_RESEARCH_JAR_3_TEETH_NAME		= "Зубной Гель";
 ITEM_RESEARCH_JAR_3_TEETH_DESC		= "Банка с твёрдыми зубами, утопленными в свернувшейся жиже.";
