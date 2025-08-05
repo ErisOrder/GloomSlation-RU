@@ -695,6 +695,8 @@ ITEM_RESEARCH_JAR_GENERIC_DESC		= "Банка с липкой жидкостью
 
 ITEM_HUNTSMAN_HEAD_NAME				= "Голова Охотника";
 ITEM_HUNTSMAN_HEAD_DESC				= "Голова мёртвого Охотника.";
+ITEM_HUNTSMAN_HAT_NAME				= "Капотен Охотника";
+ITEM_HUNTSMAN_HAT_DESC				= "Капотен Охотника. Коническая форма это шляпы отсылает к стародавним временам, когда Гильдия занималась охотой на ведьм и выслеживала всех, кто исполнял запретные ритуалы.";
 ITEM_HUNTSMAN_TORSO_NAME			= "Тело Охотника";
 ITEM_HUNTSMAN_TORSO_DESC			= "Тело мёртвого Охотника.";
 ITEM_HUNTSMAN_PELVIS_NAME			= "Таз Охотника";
@@ -713,6 +715,8 @@ ITEM_HUNTSMAN_LEG_RIGHT_DESC		= "Правая нога мёртвого Охот
 
 ITEM_WOODSMAN_HEAD_NAME				= "Голова Дровосека";
 ITEM_WOODSMAN_HEAD_DESC				= "Голова мёртвого Дровосека.";
+ITEM_WOODSMAN_HAT_NAME				= "Капотен Дровосека";
+ITEM_WOODSMAN_HAT_DESC				= "Капотен Дровосека. Коническая форма это шляпы отсылает к стародавним временам, когда Гильдия занималась охотой на ведьм и выслеживала всех, кто исполнял запретные ритуалы.";
 ITEM_WOODSMAN_TORSO_NAME			= "Тело Дровосека";
 ITEM_WOODSMAN_TORSO_DESC			= "Тело мёртвого Дровосека.";
 ITEM_WOODSMAN_PELVIS_NAME			= "Таз Дровосека";
