@@ -11,5 +11,5 @@ LEVEL_CITY_MARKET				= "Рынок";
 LEVEL_CITY_MARKET_SHOP			= "Магазин";
 LEVEL_CITY_UNDERPORT			= "Андерпорт";
 LEVEL_CITY_UNDERPORT_HIVE		= "Улей";
-LEVEL_CITY_HIGHTOWN				= "<size=95%>Элит. Район";
+LEVEL_CITY_HIGHTOWN				= "<size=95%>Элит. Кварт.";
 LEVEL_DIMENSION_MIRROR			= "<size=95%>Зазеркалье";
