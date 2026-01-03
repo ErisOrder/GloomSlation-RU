@@ -134,12 +134,12 @@ ENTRY_RAT					= "Крыса";
 ENTRY_RAT_SPECIES			= "Rodere";
 ENTRY_RAT_SERUM_NAME		= "Штамм Rodere";
 ENTRY_RAT_SERUM_DESC		= "На время уменьшает размеры тела и позволяет просачиваться в разнообразные узкие пространства.";
-ENTRY_RAT_PASSIVE_NAME		= "TO BE WRITTEN";
-ENTRY_RAT_PASSIVE_DESC		= "TO BE WRITTEN";
+ENTRY_RAT_PASSIVE_NAME		= "СКОРО";
+ENTRY_RAT_PASSIVE_DESC		= "СКОРО";
 
-RESEARCH_RAT_1				= "TO BE WRITTEN";
-RESEARCH_RAT_2				= "TO BE WRITTEN";
-RESEARCH_RAT_3				= "TO BE WRITTEN";
+RESEARCH_RAT_1				= "СКОРО";
+RESEARCH_RAT_2				= "СКОРО";
+RESEARCH_RAT_3				= "СКОРО";
 
 //-------------------------------------------------------------
 // Research - Fishdog
@@ -147,10 +147,10 @@ RESEARCH_RAT_3				= "TO BE WRITTEN";
 ENTRY_FISHDOG					= "Рыбопёс";
 ENTRY_FISHDOG_SPECIES			= "Canis Aquaticus";
 ENTRY_FISHDOG_SERUM_NAME		= "Штамм Canis";
-ENTRY_FISHDOG_SERUM_DESC		= "TO BE WRITTEN";
-ENTRY_FISHDOG_PASSIVE_NAME		= "TO BE WRITTEN";
-ENTRY_FISHDOG_PASSIVE_DESC		= "TO BE WRITTEN";
+ENTRY_FISHDOG_SERUM_DESC		= "СКОРО";
+ENTRY_FISHDOG_PASSIVE_NAME		= "СКОРО";
+ENTRY_FISHDOG_PASSIVE_DESC		= "СКОРО";
 
-RESEARCH_FISHDOG_1				= "TO BE WRITTEN";
-RESEARCH_FISHDOG_2				= "TO BE WRITTEN";
-RESEARCH_FISHDOG_3				= "TO BE WRITTEN";
+RESEARCH_FISHDOG_1				= "СКОРО";
+RESEARCH_FISHDOG_2				= "СКОРО";
+RESEARCH_FISHDOG_3				= "СКОРО";
