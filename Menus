@@ -504,7 +504,7 @@ Label_Return_to_Title = "В ГЛАВНОЕ МЕНЮ";
 Text_Upcoming_2_gradient_Menu_WhiteToGray_b_coming_soon_b_gradient_ = "<gradient=Menu_WhiteToGray><b>Скоро!</b></gradient>";
 
 Text_Upcoming_1_Breach_the_highly_guarded_and_secured = "Прокрадитесь в охраняемый и защищённый";
-Text_Upcoming_2_gradient_Menu_WhiteToGray_b_national_bank_b_gradient_ = "<gradient="Menu_WhiteToGray"><b>НАЦИОНАЛЬНЫЙ БАНК</b></gradient>";
+Text_Upcoming_2_gradient_Menu_WhiteToGray_b_national_bank_b_gradient_ = "<gradient=Menu_WhiteToGray><b>Национальный Банк</b></gradient>";
 
 //Maps
 Text_TMP_2F = "2Э";
