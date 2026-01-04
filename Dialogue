@@ -642,7 +642,7 @@ SFX_CONSTABLE_1_INTIMIDATE_PICKUPTHATCAN	= "Подними эту банку.";
 
 VO_CONSTABLE_1_HIGHTOWN_WELCOME				= "Шеф предупреждал, что ты придёшь. Поэтому он приказал нам с ребятами встретить тебя подобающе, хе-хе-хе...";
 VO_CONSTABLE_1_HIGHTOWN_ESCAPE				= "Он пытается сбежать! Схватить его!";
-VO_CONSTABLE_1_HIGHTOWN_EXECUTION_1			= "Уа! Уа! Как же они молили о жизни. \"Пожалуйста, не убивайте!\", кричали они.";
+VO_CONSTABLE_1_HIGHTOWN_EXECUTION_1			= "Ха-ха! Как же они молили о жизни. \"Пожалуйста, не убивайте!\", кричали они.";
 VO_CONSTABLE_1_HIGHTOWN_EXECUTION_2			= "Хе-хе. Да уж, задали мы им жару!";
 VO_CONSTABLE_1_HIGHTOWN_SPYMASTER_1			= "Шеф приказал избегать контактов с этим проходимцем. Говорят, он ищет Доктора, которого привезли Охотники.";
 VO_CONSTABLE_1_HIGHTOWN_SPYMASTER_2			= "Шеф тут копнул немного и обнаружил нечто такое, что кое-кто очень отчаянно старался скрыть.";
@@ -793,7 +793,7 @@ SFX_CONSTABLE_2_COMMAND_INFORMINTRUDER_2	= "Будьте начеку! У нас
 SFX_CONSTABLE_2_INTIMIDATE_PICKUPTHATCAN	= "Подними эту банку.";
 
 VO_CONSTABLE_2_HIGHTOWN_EXECUTION_1			= "Воры и мелкие преступники, целая толпа. Не в нашу смену.";
-VO_CONSTABLE_2_HIGHTOWN_EXECUTION_2			= "Ха-ха-ха... Ладно! Всем заткнуться! Идите и ищите Доктора";
+VO_CONSTABLE_2_HIGHTOWN_EXECUTION_2			= "Ха-ха-ха... Ладно! Всем заткнуться! Идите и ищите Доктора!";
 VO_CONSTABLE_2_HIGHTOWN_SPYMASTER_1			= "Кто-то из ночного патруля сказал, что видел Мастера-Шпиона на одной из крыш.";
 VO_CONSTABLE_2_HIGHTOWN_SPYMASTER_2			= "Странно. А он-то как в этом замешан?";
 VO_CONSTABLE_2_HIGHTOWN_TRAM_1				= "Похоже, одна из шестерёнок вышла из строя. Нам приказано её заменить.";
