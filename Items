@@ -509,8 +509,8 @@ KEY_HIVE_ENGINEERING_DESC				= "Ключ к Инженерному Отсеку 
 KEY_HIVE_SUPERVISOR_NAME                = "Ключ Начальника Канализации";
 KEY_HIVE_SUPERVISOR_DESC                = "Ключ к Управлению Проходами и шкафчикам Начальника в Улье.";
 
-KEY_HIGHTOWN_HOTEL_RECEPTION_NAME		= "Terrace Grove Inn Reception Key";
-KEY_HIGHTOWN_HOTEL_RECEPTION_DESC		= "Key to the reception room key at Terrace Grove Inn in Hightown.";
+KEY_HIGHTOWN_HOTEL_RECEPTION_NAME		= "Ключ к приёмной таверны Лесная Терраса";
+KEY_HIGHTOWN_HOTEL_RECEPTION_DESC		= "Ключ к приёмной комнате в таверне Лесная Терраса Элитного Района.";
 
 KEY_HIGHTOWN_MONTGOMERY_OFFICE_NAME		= "Ключ к кабинету Монтгомери";
 KEY_HIGHTOWN_MONTGOMERY_OFFICE_DESC		= "Ключ к кабинету в поместье Монтгомери.";
