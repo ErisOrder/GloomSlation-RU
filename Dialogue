@@ -792,7 +792,7 @@ SFX_CONSTABLE_2_COMMAND_INFORMINTRUDER_1	= "Держите ухо востро! 
 SFX_CONSTABLE_2_COMMAND_INFORMINTRUDER_2	= "Будьте начеку! У нас тут нарушитель.";
 SFX_CONSTABLE_2_INTIMIDATE_PICKUPTHATCAN	= "Подними эту банку.";
 
-VO_CONSTABLE_2_HIGHTOWN_EXECUTION_1			= "Воры и мелкие преступники, целая толпа. Не в нашу смену.";
+VO_CONSTABLE_2_HIGHTOWN_EXECUTION_1			= "Воры и мелкие преступники, все до последнего. В нашу смену такое не пройдёт.";
 VO_CONSTABLE_2_HIGHTOWN_EXECUTION_2			= "Ха-ха-ха... Ладно! Всем заткнуться! Идите и ищите Доктора!";
 VO_CONSTABLE_2_HIGHTOWN_SPYMASTER_1			= "Кто-то из ночного патруля сказал, что видел Мастера-Шпиона на одной из крыш.";
 VO_CONSTABLE_2_HIGHTOWN_SPYMASTER_2			= "Странно. А он-то как в этом замешан?";
