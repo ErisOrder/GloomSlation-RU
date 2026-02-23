@@ -18,6 +18,10 @@ ACTIONLOG_RESEARCH_PASSIVE			= "Исследован Эффект {ITEM}";
 ACTIONLOG_DROP_ITEM					= "Чемодан полон - выброшено {ITEM}";
 ACTIONLOG_BEASTFORM_INVALIDUSE		= "Нельзя использовать, будучи Превращённым";
 ACTIONLOG_CANNOT_USE_ITEM			= "Нельзя использовать это";
+ACTIONLOG_RESEARCH_TABLE_MISSING_RESEARCH_SUBSTANCE = "Для дистилляции необходимо 3 субстанции";
+ACTIONLOG_RESEARCH_TABLE_MISSING_RESEARCH_ITEM = "Чтобы начать процесс необходима подходящая часть тела";
+ACTIONLOG_RESEARCH_TABLE_NOT_READY  = "Лаборатория ещё не готова";
+ACTIONLOG_SAVING_INVENTORY_OPEN     = "Нельзя сохраняться с открытым инвентарём";
 
 //-------------------------------------------------------------
 // Tutorial

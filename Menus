@@ -7,6 +7,7 @@ TITLE_STARTGAME			= "Начать";
 
 // New Game Menu
 MENU_NEWGAME_TITLE		= "Новая игра";
+MENU_NEWGAME_OPTIONS_TITLE    = "Включить быстрые сохранения?";
 DIFFICULTY_SELECT		= "Сложность";
 DIFFICULTY_NAME_EASY	= "Юная луна";
 DIFFICULTY_NAME_MEDIUM	= "Полумесяц";
@@ -36,6 +37,8 @@ MENU_CONFIRM			= "Ага";
 MENU_CANCEL				= "Не-а";
 MENU_NEXT				= "ДАЛЕЕ";
 MENU_BACK				= "НАЗАД";
+MENU_YES				= "ДА";
+MENU_NO					= "НЕТ";
 
 // Load Game Menu
 MENU_LOAD_TITLE			= "Загрузить";
@@ -208,7 +211,7 @@ INPUT_HOLSTER_WEAPON	= "Спрятать оружие";
 INPUT_RELOAD_WEAPON		= "Перезарядка";
 INPUT_CHANGE_AMMO_TYPE	= "Сменить вид патронов";
 INPUT_PRIMARY_FIRE		= "Основная атака";
-INPUT_SECONDARY_FIRE	= "Альтернативная атака";
+INPUT_ALTERNATE_FIRE	= "Альтернативная атака";
 INPUT_WEAPON_0			= "Оружие 0";
 INPUT_WEAPON_1			= "Оружие 1";
 INPUT_WEAPON_2			= "Оружие 2";
