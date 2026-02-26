@@ -7,7 +7,7 @@ TITLE_STARTGAME			= "Начать";
 
 // New Game Menu
 MENU_NEWGAME_TITLE		= "Новая игра";
-MENU_NEWGAME_OPTIONS_TITLE    = "Включить быстрые сохранения?";
+MENU_NEWGAME_OPTIONS_TITLE    = "<size=73%>Включить быстрые сохранения?";
 DIFFICULTY_SELECT		= "Сложность";
 DIFFICULTY_NAME_EASY	= "Юная луна";
 DIFFICULTY_NAME_MEDIUM	= "Полумесяц";
