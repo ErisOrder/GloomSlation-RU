@@ -57,6 +57,8 @@ MENU_PAUSE_LOAD			= "<margin-left=2em>Загрузить";
 MENU_PAUSE_SETTINGS		= "Настройки";
 MENU_PAUSE_TITLE		= "<margin-left=1em>Главное меню";
 MENU_PAUSE_QUIT			= "<margin-left=2em>Выйти из игры";
+MENU_PAUSE_QUICKSAVE	= "Быстр. Сохр.: ";
+MENU_PAUSE_QUICKLOAD	= "Быстр. ЗАгр.: ";
 
 // Settings Menu
 MENU_SETTINGS_TITLE		= "НАСТРОЙКИ";
@@ -175,10 +177,18 @@ OPTION_SUB_MODE_FULL	= "<voffset=0.25em>Всё";
 
 // Settings Controls Menu
 OPTION_BINDINGS			= "УПРАВЛЕНИЕ";
-OPTION_GAMEPAD			= "<voffset=0.25em>Геймпад (СКОРО)";
+OPTION_GAMEPAD			= "<voffset=0.25em>Геймпад";
 OPTION_SNEAK			= "<voffset=0.25em>Нажать чтобы красться";
 OPTION_CROUCH			= "<voffset=0.25em>Нажать чтобы присесть";
 OPTION_SWITCHDRAW		= "<voffset=0.25em>Доставать оружие при выборе";
+OPTION_VIEW_STICK_SENSITIVITY = "Чувствительность Стика - Обзор";
+OPTION_MENU_STICK_SENSITIVITY = "Чувствительность Стика - Меню";
+OPTION_RIGHT_STICK_DEADZONE = "Мёртвая Зона Правого Стика";
+OPTION_LEFT_STICK_DEADZONE = "Мёртвая Зона ЛЕвого Стика";
+OPTION_INVERT_RIGHT_STICK_X	= "Инвертировать Ось X - Правый Стик";
+OPTION_INVERT_RIGHT_STICK_Y	= "Инвертировать Ось Y - Правый Стик";
+OPTION_INVERT_LEFT_STICK_X	= "Инвертировать Ось X - Левый Стик";
+OPTION_INVERT_LEFT_STICK_Y	= "Инвертировать Ось Y - Левый Стик";
 
 // Brightness Menu
 OPTION_BRIGHT_PROMPT	= "Перемещайте ползунок, пока луна слева не пропадёт.\nПри необходимости измените гамму, пока луна справа не будет хорошо видна";
@@ -212,6 +222,7 @@ INPUT_RELOAD_WEAPON		= "Перезарядка";
 INPUT_CHANGE_AMMO_TYPE	= "Сменить вид патронов";
 INPUT_PRIMARY_FIRE		= "Основная атака";
 INPUT_ALTERNATE_FIRE	= "Альтернативная атака";
+INPUT_ACTION_MODIFIER	= "Модификатор действия";
 INPUT_WEAPON_0			= "Оружие 0";
 INPUT_WEAPON_1			= "Оружие 1";
 INPUT_WEAPON_2			= "Оружие 2";
