@@ -50,7 +50,7 @@ ITEM_QUANTITY					= "Количество";
 ITEM_LOADEDTYPE					= "Вид Патронов";
 ITEM_LOADEDQUANTITY				= "Количество Патронов";
 ITEM_DETACH						= "Отвязать";
-ITEM_SHORTCU					= "Привязать";
+ITEM_SHORTCUT					= "Привязать";
 
 // Item Action Names
 ITEM_INJECT						= "Вколоть";
