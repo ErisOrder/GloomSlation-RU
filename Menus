@@ -1,27 +1,29 @@
 NONE					= "";
-TITLE_NEWGAME			= "Новая игра";
-TITLE_LOAD				= "Загрузить";
+TITLE_NEWGAME			= "Новая Игра";
+TITLE_LOAD				= "Загрузить Игру";
 TITLE_SETTINGS			= "Настройки";
-TITLE_QUIT				= "Выйти";
+TITLE_QUIT				= "Выйти из Игры";
 TITLE_STARTGAME			= "Начать";
 
 // New Game Menu
-MENU_NEWGAME_TITLE		= "Новая игра";
-MENU_NEWGAME_OPTIONS_TITLE    = "<size=73%>Включить быстрые сохранения?";
-DIFFICULTY_SELECT		= "Сложность";
-DIFFICULTY_NAME_EASY	= "Юная луна";
-DIFFICULTY_NAME_MEDIUM	= "Полумесяц";
-DIFFICULTY_NAME_HARD	= "Полнолуние";
-DIFFICULTY_NAME_EXPERT	= "Кровавая луна";
-DIFFICULTY_NAME_CUSTOM	= "Синяя луна";
-DIFFICULTY_DESC_EASY	= "<line-height=40%>Для игроков, не знакомых с жанром Survival-Horror, и тех, кто хочет исследовать мир";
-DIFFICULTY_DESC_MEDIUM	= "<line-height=40%><voffset=1em>Для игроков, которые немного знакомы с играми жанра Survival-Horror.";
-DIFFICULTY_DESC_HARD	= "<line-height=40%><voffset=1em>Для игроков, которые хорошо знакомы с играми жанра Survival-Horror.";
-DIFFICULTY_DESC_EXPERT	= "<line-height=40%><voffset=1em>Испытание для ветеранов жанра Survival-Horror.";
-DIFFICULTY_FEAT_EASY	= "<line-height=40%>- Много ресурсов\n- Мало врагов\n- Враги слабы, медлительны и невнимательны\n- Быстр. сохр. и Быстр. загр. разрешены";
-DIFFICULTY_FEAT_MEDIUM	= "<line-height=40%>- Среднее количество ресурсов\n- Среднее количество врагов\n- Урон, скорость и внимательность врагов на среднем уровне\n- Сохранения только с помощью Фонографов";
-DIFFICULTY_FEAT_HARD	= "<line-height=40%>- Мало ресурсов\n- Много врагов\n- Враги сильные, быстрые и внимательные\n- Сохранения только с помощью Фонографов";
-DIFFICULTY_FEAT_EXPERT	= "<line-height=40%>- Очень мало ресурсов\n- Очень много врагов\n- Враги очень сильные, очень быстрые и очень внимательные\n- Сохранения только с помощью Фонографов и Восковых Цилиндров";
+MENU_NEWGAME_TITLE		        = "Новая игра";
+MENU_NEWGAME_OPTIONS_TITLE      = "<size=73%>Включить быстрые сохранения?";
+MENU_NEWGAME_SKIPINTRO		    = "Пропустить Вступление";
+MENU_NEWGAME_PLAY			    = "В ПУТЬ";
+DIFFICULTY_SELECT		        = "Сложность";
+DIFFICULTY_NAME_EASY	        = "Юная луна";
+DIFFICULTY_NAME_MEDIUM	        = "Полумесяц";
+DIFFICULTY_NAME_HARD	        = "Полнолуние";
+DIFFICULTY_NAME_EXPERT	        = "Кровавая луна";
+DIFFICULTY_NAME_CUSTOM	        = "Синяя луна";
+DIFFICULTY_DESC_EASY	        = "<line-height=40%>Для игроков, не знакомых с жанром Survival-Horror, и тех, кто хочет исследовать мир";
+DIFFICULTY_DESC_MEDIUM	        = "<line-height=40%><voffset=1em>Для игроков, которые немного знакомы с играми жанра Survival-Horror.";
+DIFFICULTY_DESC_HARD	        = "<line-height=40%><voffset=1em>Для игроков, которые хорошо знакомы с играми жанра Survival-Horror.";
+DIFFICULTY_DESC_EXPERT	        = "<line-height=40%><voffset=1em>Испытание для ветеранов жанра Survival-Horror.";
+DIFFICULTY_FEAT_EASY	        = "<line-height=40%>- Много ресурсов\n- Мало врагов\n- Враги слабы, медлительны и невнимательны\n- Быстр. сохр. и Быстр. загр. разрешены";
+DIFFICULTY_FEAT_MEDIUM	        = "<line-height=40%>- Среднее количество ресурсов\n- Среднее количество врагов\n- Урон, скорость и внимательность врагов на среднем уровне\n- Сохранения только с помощью Фонографов";
+DIFFICULTY_FEAT_HARD	        = "<line-height=40%>- Мало ресурсов\n- Много врагов\n- Враги сильные, быстрые и внимательные\n- Сохранения только с помощью Фонографов";
+DIFFICULTY_FEAT_EXPERT	        = "<line-height=40%>- Очень мало ресурсов\n- Очень много врагов\n- Враги очень сильные, очень быстрые и очень внимательные\n- Сохранения только с помощью Фонографов и Восковых Цилиндров";
 
 // Saved Game Message
 UI_SAVEMESSAGE			= "Сохранено";
@@ -39,6 +41,10 @@ MENU_NEXT				= "ДАЛЕЕ";
 MENU_BACK				= "НАЗАД";
 MENU_YES				= "ДА";
 MENU_NO					= "НЕТ";
+MENU_ACCEPT				= "СОХРАНИТЬ";
+MENU_APPLY				= "ПРИМЕНИТЬ";
+MENU_RESET				= "СБРОСИТЬ";
+MENU_EXIT				= "ВЫХОД";
 
 // Load Game Menu
 MENU_LOAD_TITLE			= "Загрузить";
@@ -51,6 +57,26 @@ MENU_SAVE_MODAL_DESC		    = "Это действие нельзя отменит
 MENU_SAVE_DELETE_MODAL_TITLE    = "Удалить сохранение?";
 MENU_SAVE_OVERWRITE_MODAL_TITLE = "Перезаписать сохранение?";
 
+// Save Slot Menu
+MENU_SAVESLOT_SAVE_TITLE			= "Save Game Menu";
+MENU_SAVESLOT_LOAD_TITLE			= "Load Game Menu";
+MENU_SAVESLOT_SAVE					= "Сохранить";
+MENU_SAVESLOT_LOAD					= "Загрузить";
+MENU_SAVESLOT_DELETE				= "Удалить";
+MENU_SAVESLOT_FILE					= "Файл";
+MENU_SAVESLOT_EMPTY					= "Пусто";
+MENU_SAVESLOT_TYPE_AUTOSAVE			= "Автосохранение";
+MENU_SAVESLOT_TYPE_QUICKSAVE		= "Быстр. сохр.";
+MENU_SAVESLOT_TYPE_STANDARD			= "Обычный";
+MENU_SAVESLOT_LOAD_OLD_TEXT_TOP		= "ЗАГРУЗИТЬ СОХРАНЕНИЕ?";
+MENU_SAVESLOT_LOAD_OLD_TEXT_BOTTOM	= "Сохранение устарело! Объекты и данные могут загрузиться неверно.";
+MENU_SAVESLOT_VERSION_SAVE			= "Версия Сохранения:";
+MENU_SAVESLOT_VERSION_GAME			= "Версия Игры:";
+MENU_SAVESLOT_OVERWRITE_TOP			= "ПЕРЕЗАПИСАТЬ СОХРАНЕНИЕ?";
+MENU_SAVESLOT_OVERWRITE_BOTTOM		= "Соглашаясь на процедуру вы принимаете,\nчто мы не несём ответственности за несчастные случаи.";
+MENU_SAVESLOT_DELETE_TEXT_TOP		= "УДАЛИТЬ СОХРАНЕНИЕ?";
+MENU_SAVESLOT_DELETE_TEXT_BOTTOM	= "Соглашаясь на процедуру вы принимаете,\nчто мы не несём ответственности за несчастные случаи.";
+
 // Pause Menu
 MENU_PAUSE_RESUME		= "Продолжить";
 MENU_PAUSE_LOAD			= "<margin-left=2em>Загрузить";
@@ -61,15 +87,19 @@ MENU_PAUSE_QUICKSAVE	= "Быстр. Сохр.: ";
 MENU_PAUSE_QUICKLOAD	= "Быстр. ЗАгр.: ";
 
 // Settings Menu
-MENU_SETTINGS_TITLE		= "НАСТРОЙКИ";
-MENU_SETTINGS_GAMEPLAY	= "ИГРА";
-MENU_SETTINGS_CAMERA	= "ОБЗОР";
-MENU_SETTINGS_VIDEO		= "ГРАФИКА";
-MENU_SETTINGS_AUDIO		= "ЗВУК";
-MENU_SETTINGS_CONTROLS	= "УПРАВЛЕНИЕ";
-MENU_SETTINGS_INPUT		= "УПРАВЛЕНИЕ";
-MENU_BCG_BRIGHTNESS		= "<voffset=0.25em>ЯРКОСТЬ / ГАММА";
-MENU_BCG_CONTRAST		= "<voffset=0.25em>КОНТРАСТ";
+MENU_SETTINGS_TITLE		        = "НАСТРОЙКИ";
+MENU_SETTINGS_GAMEPLAY	        = "ИГРА";
+MENU_SETTINGS_CAMERA	        = "ОБЗОР";
+MENU_SETTINGS_VIDEO		        = "ГРАФИКА";
+MENU_SETTINGS_AUDIO		        = "ЗВУК";
+MENU_SETTINGS_CONTROLS	        = "УПРАВЛЕНИЕ";
+MENU_SETTINGS_INPUT		        = "УПРАВЛЕНИЕ";
+MENU_SETTINGS_GAMEPAD			= "Геймпад";
+MENU_SETTINGS_BRIGHTNESS		= "Настройка Яркости";
+MENU_BCG_BRIGHTNESS		        = "<voffset=0.25em>ЯРКОСТЬ / ГАММА";
+MENU_BCG_CONTRAST		        = "<voffset=0.25em>КОНТРАСТ";
+MENU_RESET_DEFAULTS				= "По Умолчанию";
+MENU_INPUT_TITLE				= "Настройка Управления";
 
 // Settings Gameplay Menu
 OPTION_FORMAT_BULLET	= "{0}:";
@@ -86,6 +116,9 @@ OPTION_LOW				= "<voffset=0.25em>Низко";
 OPTION_MEDIUM			= "<voffset=0.25em>Средне";
 OPTION_HIGH				= "<voffset=0.25em>Высоко";
 OPTION_ULTRA			= "<voffset=0.25em>Ультра";
+OPTION_NEAR				= "<voffset=0.25em>Близко";
+OPTION_FAR				= "<voffset=0.25em>Далеко";
+OPTION_ACCEPT			= "<voffset=0.25em>Принять";
 OPTION_APPLY			= "Применить";
 OPTION_RESET			= "По умолчанию";
 OPTION_BACK				= "<voffset=0.25em>Назад";
@@ -96,6 +129,7 @@ OPTION_VISIONCONES		= "<voffset=0.25em>Подсветка обзора враг�
 OPTION_VC_OFF			= "<voffset=0.25em>Выкл";
 OPTION_VC_MONO			= "<voffset=0.25em>Белая";
 OPTION_VC_COLORED		= "<voffset=0.25em>Цветная";
+OPTION_SWITCHDRAW		= "<voffset=0.25em>Доставать оружие при выборе";
 OPTION_HIGHLIGHTS		= "<voffset=0.25em>Подсказки взаимодействия";
 OPTION_HL_BRIGHTNESS	= "<voffset=0.25em>Яркость";
 OPTION_HL_COLOR			= "<voffset=0.25em>Цвет";
@@ -112,47 +146,41 @@ OPTION_DEVCONSOLE		= "<voffset=0.25em>Консоль разработчика";
 
 // Settings Camera Menu
 OPTION_VIEW_FOV			= "<voffset=0.25em>Горизонтальное поле зрения";
-OPTION_VIEW_SENSITIVITY	= "<voffset=0.25em>Чувствительность";
-OPTION_VIEW_SMOOTHING	= "<voffset=0.25em>Сглаживание мыши";
-OPTION_VIEW_INVERT_Y	= "<voffset=0.25em>Инвертировать обзор по оси Y";
 OPTION_VIEW_BOB			= "<voffset=0.25em>Сила покачиваний руки";
 OPTION_VIEW_SWAY		= "<voffset=0.25em>Сила раскачивания взора";
 
 // Settings Video Menu
-OPTION_DISPLAY			= "<voffset=0.25em>Монитор";
-OPTION_RESOLUTION		= "<voffset=0.25em>Разрешение";
-OPTION_FULLSCREEN		= "<voffset=0.25em>Полноэкранный";
-OPTION_FS_EXCLUSIVE		= "<voffset=0.25em>Полноэкранный";
-OPTION_FS_BORDERLESS	= "<voffset=0.25em>В окне без рамки";
-OPTION_FS_WINDOWED		= "<voffset=0.25em>В окне";
-OPTION_VSYNC			= "<voffset=0.25em>Вертикальная Синхронизация";
-OPTION_FRAMERATE		= "<voffset=0.25em>Ограничение частоты кадров";
-OPTION_FOV				= "<voffset=0.25em>FOV";
-OPTION_BRIGHTNESS		= "<voffset=-0.25em>Яркость";
-OPTION_CONTRAST			= "<voffset=-0.25em>Контраст";
-OPTION_GAMMA			= "<voffset=-0.25em>Гамма";
-OPTION_DYNSHAD			= "<voffset=0.25em>Качество динамических теней";
-OPTION_PROJSHAD_QUALITY	= "<voffset=0.25em>Качество отбрасываемых теней";
-OPTION_PROJSHAD_DIST	= "<voffset=0.25em>Дальность отбрасываемых теней";
-OPTION_PROJSHAD_OFF		= "<voffset=0.25em>Выкл";
-OPTION_PROJSHAD_NEAR	= "<voffset=0.25em>Близко";
-OPTION_PROJSHAD_FAR		= "<voffset=0.25em>Далеко";
-OPTION_TF				= "<voffset=0.25em>Фильтрация текстур";
-OPTION_TF_POINT			= "<voffset=0.25em>Точечная";
-OPTION_TF_BILINEAR		= "<voffset=0.25em>Билинейная";
-OPTION_AF				= "<voffset=0.25em>Анизотропная фильтрация";
-OPTION_LMR				= "<voffset=0.25em>Тени";
-OPTION_LMR_LOW			= "<voffset=0.25em>Низко";
-OPTION_LMR_MEDIUM		= "<voffset=0.25em>Средне";
-OPTION_LMR_HIGH			= "<voffset=0.25em>Высоко";
-OPTION_LMR_ULTRA		= "<voffset=0.25em>Ультра";
-OPTION_AA				= "<voffset=0.25em>Режим сглаживания";
-OPTION_AA_OFF			= "<voffset=0.25em>Выкл";
-OPTION_AA_2X			= "<voffset=0.25em>2X";
-OPTION_AA_4X			= "<voffset=0.25em>4X";
-OPTION_AA_8X			= "<voffset=0.25em>8X";
-OPTION_LIGHTFLARES		= "<voffset=0.25em>Включить блики";
-OPTION_WEATHERQ		    = "<voffset=0.25em>Качество погодных условий";
+OPTION_DISPLAY			    = "<voffset=0.25em>Монитор";
+OPTION_RESOLUTION		    = "<voffset=0.25em>Разрешение";
+OPTION_FULLSCREEN		    = "<voffset=0.25em>Полноэкранный";
+OPTION_FS_EXCLUSIVE		    = "<voffset=0.25em>Полноэкранный";
+OPTION_FS_BORDERLESS	    = "<voffset=0.25em>В окне без рамки";
+OPTION_FS_WINDOWED		    = "<voffset=0.25em>В окне";
+OPTION_VSYNC			    = "<voffset=0.25em>Вертикальная Синхронизация";
+OPTION_FRAMERATE		    = "<voffset=0.25em>Ограничение частоты кадров";
+OPTION_FOV				    = "<voffset=0.25em>FOV";
+OPTION_BRIGHTNESS		    = "<voffset=-0.25em>Яркость";
+OPTION_CONTRAST			    = "<voffset=-0.25em>Контраст";
+OPTION_GAMMA			    = "<voffset=-0.25em>Гамма";
+OPTION_DYNSHAD			    = "<voffset=0.25em>Качество динамических теней";
+OPTION_PROJSHAD_QUALITY	    = "<voffset=0.25em>Качество отбрасываемых теней";
+OPTION_PROJSHAD_DIST	    = "<voffset=0.25em>Дальность отбрасываемых теней";
+OPTION_TF				    = "<voffset=0.25em>Фильтрация текстур";
+OPTION_TF_POINT			    = "<voffset=0.25em>Точечная";
+OPTION_TF_BILINEAR		    = "<voffset=0.25em>Билинейная";
+OPTION_AF				    = "<voffset=0.25em>Анизотропная фильтрация";
+OPTION_LMR				    = "<voffset=0.25em>Тени";
+OPTION_LMR_LOW			    = "<voffset=0.25em>Низко";
+OPTION_LMR_MEDIUM		    = "<voffset=0.25em>Средне";
+OPTION_LMR_HIGH			    = "<voffset=0.25em>Высоко";
+OPTION_LMR_ULTRA		    = "<voffset=0.25em>Ультра";
+OPTION_AA				    = "<voffset=0.25em>Режим сглаживания";
+OPTION_AA_OFF			    = "<voffset=0.25em>Выкл";
+OPTION_AA_2X			    = "<voffset=0.25em>2X";
+OPTION_AA_4X			    = "<voffset=0.25em>4X";
+OPTION_AA_8X			    = "<voffset=0.25em>8X";
+OPTION_LIGHTFLARES		    = "<voffset=0.25em>Включить блики";
+OPTION_WEATHERQ		        = "<voffset=0.25em>Качество погодных условий";
 OPTION_WEATHERQ_NORMAL		= "<voffset=0.25em>Средне";
 OPTION_WEATHERQ_LOW			= "<voffset=0.25em>Низко";
 OPTION_WEATHERQ_VERYLOW		= "<voffset=0.25em>Очень низко";
@@ -176,25 +204,32 @@ OPTION_SUB_MODE_SUB		= "<voffset=0.25em>Диалоги";
 OPTION_SUB_MODE_FULL	= "<voffset=0.25em>Всё";
 
 // Settings Controls Menu
-OPTION_BINDINGS			= "УПРАВЛЕНИЕ";
-OPTION_GAMEPAD			= "<voffset=0.25em>Геймпад";
-OPTION_SNEAK			= "<voffset=0.25em>Нажать чтобы красться";
-OPTION_CROUCH			= "<voffset=0.25em>Нажать чтобы присесть";
-OPTION_SWITCHDRAW		= "<voffset=0.25em>Доставать оружие при выборе";
-OPTION_VIEW_STICK_SENSITIVITY = "Чувствительность Стика - Обзор";
-OPTION_MENU_STICK_SENSITIVITY = "Чувствительность Стика - Меню";
-OPTION_RIGHT_STICK_DEADZONE = "Мёртвая Зона Правого Стика";
-OPTION_LEFT_STICK_DEADZONE = "Мёртвая Зона ЛЕвого Стика";
-OPTION_INVERT_RIGHT_STICK_X	= "Инвертировать Ось X - Правый Стик";
-OPTION_INVERT_RIGHT_STICK_Y	= "Инвертировать Ось Y - Правый Стик";
-OPTION_INVERT_LEFT_STICK_X	= "Инвертировать Ось X - Левый Стик";
-OPTION_INVERT_LEFT_STICK_Y	= "Инвертировать Ось Y - Левый Стик";
+OPTION_INPUT_MAPPING				= "Назначение Кнопок";
+OPTION_BINDINGS			            = "Управление";
+OPTION_GAMEPAD			            = "<voffset=0.25em>Включить Геймпад";
+OPTION_SNEAK			            = "<voffset=0.25em>Нажать чтобы красться";
+OPTION_CROUCH			            = "<voffset=0.25em>Нажать чтобы присесть";
+OPTION_DOUBLE_TAP_THRESHOLD			= "Порог Двойного Щелчка";
+OPTION_LOOK_SENSITIVITY				= "Чувствительность Обзора";
+OPTION_GAMEPAD_LOOK_SENSITIVITY		= "Чувствительность Обзора - Геймпад";
+OPTION_LOOK_SMOOTHING				= "Сглаживание";
+OPTION_LOOK_INVERT_Y				= "Инвертировать обзор по оси Y";
+OPTION_AIM_DOWN_SIGHT_SENSITIVITY	= "Чувствительность в Прицеле";
+OPTION_MENU_STICK_SENSITIVITY       = "Чувствительность Стика - Меню";
+OPTION_RIGHT_STICK_DEADZONE         = "Мёртвая Зона Правого Стика";
+OPTION_LEFT_STICK_DEADZONE          = "Мёртвая Зона ЛЕвого Стика";
+OPTION_INVERT_RIGHT_STICK_X	        = "Инвертировать Ось X - Правый Стик";
+OPTION_INVERT_RIGHT_STICK_Y	        = "Инвертировать Ось Y - Правый Стик";
+OPTION_INVERT_LEFT_STICK_X	        = "Инвертировать Ось X - Левый Стик";
+OPTION_INVERT_LEFT_STICK_Y	        = "Инвертировать Ось Y - Левый Стик";
 
 // Brightness Menu
 OPTION_BRIGHT_PROMPT	= "Перемещайте ползунок, пока луна слева не пропадёт.\nПри необходимости измените гамму, пока луна справа не будет хорошо видна";
 OPTION_CONTRAST_PROMPT	= "Перемещайте ползунок, пока цвета не станут насыщенными, но и не слишком яркими";
 
 // Bindings Menu
+BINDINGS_HEADER			= "Переназначение";
+BINDINGS_SELECT			= "Нажмите Клавишу";
 BINDINGS_PROMPT			= "Нажмите любую клавишу";
 BINDINGS_RESET			= "Клавиши по умолчанию восстановлены";
 BINDINGS_BIND			= "назначено";
@@ -245,7 +280,28 @@ INPUT_MOUSE_WHEEL_DOWN	= "Колесо мыши вниз";
 MENU_TITLE_PROMPT		= "В ГЛАВНОЕ МЕНЮ";
 
 // Quit Confirm
+MENU_QUIT_PROMPT_TOP	= "Достали соседи? 
+Жена застукала с любовницей?
+Спасаетесь от закона?
+Или если Вам по какой-то ещё причине нужно...";
 MENU_QUIT_PROMPT		= "<size=85%><voffset=-0.45em>Покинуть этот злосчастный городишко?";
+MENU_QUIT_PROMPT_BOTTOM = "Не проблема! Просто поставьте галочку возле \“АГА\” и отдайте
+эту карточку джентльмену, от которого её получили.
+Если вы хотите отказаться от наших услуг, отметьте \“НЕ-А\”.
+
+Об остальном мы позаботимся.";
+
+// Gamepad Confirm
+MENU_GAMEPAD_PROMPT_TOP		= "Проблемы с руками и ногами?
+Ваш двигательный аппарат работает не так?
+А ваши суставы уже не те?
+Возможно, вам нужно всего лишь...";
+MENU_GAMEPAD_PROMPT			= "Включить Геймпад?";
+MENU_GAMEPAD_PROMPT_BOTTOM	= "Отметьте \"АГА\" и вновь обретите контроль над вашей жизнью! Даже если у вас 
+останутся какие-то проблемы, мы поможем вам! Ну, а если вы уже
+Полностью управляете своей жизнью, тогда отметьте \"НЕ-А\".
+
+Спасибо за участие в программе.";
 
 // Modifiers
 KEY_NONE				= "Не назначено";
@@ -406,8 +462,8 @@ KEY_BREAK				= "Break";
 KEY_MENU				= "Menu";
 
 // Intro
-INTRO_NEWBLOOD					= "New Blood Interactive\nпредставляет";
-INTRO_DEVELOPERS				= "Игра создана\nДиллоном Роджерсом и Дэвидом Шимански";
+INTRO_NEWBLOOD			= "New Blood Interactive\nпредставляет";
+INTRO_DEVELOPERS		= "Игра создана\nДиллоном Роджерсом и Дэвидом Шимански";
 
 
 /* Volatile Additions
@@ -416,17 +472,17 @@ That component gets added on the fly and IDs here are generated automatically.
 IDs are derived from GameObject name and original text, and they could easily change between versions.
 */
 
-//First Menu Screen
-Text_TMP_New_Game = "Новая Игра";
-Text_TMP_Load_Game = "Загрузить";
-Text_TMP_Settings = "Настройки";
-Text_TMP_Quit_Game = "Выйти";
+// //First Menu Screen
+// Text_TMP_New_Game = "Новая Игра";
+// Text_TMP_Load_Game = "Загрузить";
+// Text_TMP_Settings = "Настройки";
+// Text_TMP_Quit_Game = "Выйти";
 
-//Underport Menu Screen
-Label_new_game = = "Новая Игра";
-Label_load = "Загрузить";
-Label_settings = "Настройки";
-Label_quit = "Выйти";
+// //Underport Menu Screen
+// Label_new_game = = "Новая Игра";
+// Label_load = "Загрузить";
+// Label_settings = "Настройки";
+// Label_quit = "Выйти";
 
 //Choose Difficulty Screen
 MenuElement_Text_Prompt_Header_the_wonders_of_the_phases_of_the_moon = "ЧУДЕСА ФАЗ ЛУНЫ";
@@ -436,8 +492,8 @@ MedicalHistoryRecord_MEDICAL_HISTORY_RECORD = "ИСТОРИЯ БОЛЕЗНИ";
 Jargon_APPROVED_FOR_CONSIDERATION_BY_THE_PRIMARY_LICENSED_MEDICAL_AUTHORITY = "ОДОБРЕНО ДЛЯ РАССМОТРЕНИЯ\nГЛАВНЫМ ЛИЦЕНЗИРОВАННЫМ\nМЕДИЦИНСКИМ ОРГАНОМ";
 Age_Age_ = "<size=90%>Возраст:";
 ForPatient_For_Patient_ = "Имя Пациента:";
-Text_TMP_Brightness_Gamma_and_Contrast_Settings = "ЯРКОСТЬ, ГАММА,\nИ КОНТРАСТ";
-Text_TMP_Reset_To_Defaults = "ПО УМОЛЧАНИЮ";
+// Text_TMP_Brightness_Gamma_and_Contrast_Settings = "ЯРКОСТЬ, ГАММА,\nИ КОНТРАСТ";
+// Text_TMP_Reset_To_Defaults = "ПО УМОЛЧАНИЮ";
 
 //Input Settings Menu
 Header_DRAFTED_PER_THE_INSTRUCTIONS_OF_THE_OFFICES_OF_GLOOMWOOD_A_LEDGER_OF_BINDINGS_TO_BE_USED_FOR_NAVIGATION_AND_ACTIONS = "<size=85%>СОСТАВЛЕНО В СООТВЕТСТВИИ С ИНСТРУКЦИЯМИ ОФИСОВ ГЛУМВУДА: РЕЕСТР НАЗНАЧЕНИЙ, ИСПОЛЬЗУЕМЫЙ ДЛЯ НАВИГАЦИИ И ДЕЙСТВИЙ";
@@ -446,29 +502,29 @@ MenuElement_Label_RESET = "<voffset=0.25em>СБРОСИТЬ";
 MenuElement_Label_ACCEPT = "<voffset=0.25em>СОХРАНИТЬ";
 
 //Load menu
-Text_TMP_cancel = "Отмена";
-Text_TMP_delete = "Удалить";
-Text_TMP_load   = "Загрузить";
-Text_TMP_save = "Сохранить";
-Text_FileName_empty = "Пусто";
-Description_save_version_outdated_some_object_data_may_not_load_correctly = "Сохранение устарело!\nОбъекты и данные могут загрузиться неверно";
-Description_this_action_can_not_be_undone_ = "Это действие нельзя отменить!";
-Text_FileCompatibility_outdated_save_version_ = "Устаревшее\nСохрание!";
-Title_load_this_save_ = "Загрузить сохранение?";
-Title_delete_this_save_ = "Удалить сохранение?";
-MENU_SAVE_DELETE_MODAL_TITLE = "Удалить сохранение?";
-MENU_SAVE_MODAL_DESC = "Это действие нельзя отменить!";
-Title_overwrite_this_save_ = "Перезаписать сохранение?";
-MENU_SAVE_OVERWRITE_MODAL_TITLE = "Перезаписать сохранение?";
+// Text_TMP_cancel = "Отмена";
+// Text_TMP_delete = "Удалить";
+// Text_TMP_load   = "Загрузить";
+// Text_TMP_save = "Сохранить";
+// Text_FileName_empty = "Пусто";
+// Description_save_version_outdated_some_object_data_may_not_load_correctly = "Сохранение устарело!\nОбъекты и данные могут загрузиться неверно";
+// Description_this_action_can_not_be_undone_ = "Это действие нельзя отменить!";
+// Text_FileCompatibility_outdated_save_version_ = "Устаревшее\nСохрание!";
+// Title_load_this_save_ = "Загрузить сохранение?";
+// Title_delete_this_save_ = "Удалить сохранение?";
+// MENU_SAVE_DELETE_MODAL_TITLE = "Удалить сохранение?";
+// MENU_SAVE_MODAL_DESC = "Это действие нельзя отменить!";
+// Title_overwrite_this_save_ = "Перезаписать сохранение?";
+// MENU_SAVE_OVERWRITE_MODAL_TITLE = "Перезаписать сохранение?";
 
 
 //Delete and Load Menus
-Text_TMP_no = "Нет";
-Text_TMP_yes = "Да";
-Text_TMP_No = "Нет";
-Text_TMP_Yes = "Да";
-Text_TMP_NO = "Нет";
-Text_TMP_YES = "Да";
+// Text_TMP_no = "Нет";
+// Text_TMP_yes = "Да";
+// Text_TMP_No = "Нет";
+// Text_TMP_Yes = "Да";
+// Text_TMP_NO = "Нет";
+// Text_TMP_YES = "Да";
 
 //Loading Screen
 LoadingText_Loading = "Загрузка";
@@ -480,29 +536,29 @@ MenuElement_Text_Prompt_SubCenter_on_date_of_purchase = "Действителе�
 MenuElement_Text_Prompt_Footer_INVALID_IF_SELECTION_IS_UNCLEAR_OR_LEFT_BLANK = "НЕДЕЙСТВИТЕЛЕН, ЕСЛИ НЕ ЗАПОЛНЕН";
 
 //Quit Game Ticket
-MenuElement_Text_Prompt_Top_Argument_with_a_neighbor_Wife_caught_you_with_a_ladyfriend_Running_from_the_law_If_for_whatever_reason_you_feel_you_must_ = "Достали соседи?\nЖена застукала с любовницей?\nБежите от закона?\nЕсли по какой-то причине вам нужно...";
-MenuElement_Text_Prompt_Bottom_Do_not_fret_Simply_check_the_box_labeled_aye_and_leave_the_card_with_the_gentleman_who_offered_it_If_you_wish_to_refuse_our_services_check_nay_Leave_the_rest_to_us_ = "Не проблема! Просто поставьте галочку возле “АГА” и отдайте\nэту карточку джентльмену, от которого её получили.\nЕсли вы хотите отказаться от наших услуг, отметьте “НЕ-А”.\nОб остальном мы позаботимся.";
+// MenuElement_Text_Prompt_Top_Argument_with_a_neighbor_Wife_caught_you_with_a_ladyfriend_Running_from_the_law_If_for_whatever_reason_you_feel_you_must_ = "Достали соседи?\nЖена застукала с любовницей?\nБежите от закона?\nЕсли по какой-то причине вам нужно...";
+// MenuElement_Text_Prompt_Bottom_Do_not_fret_Simply_check_the_box_labeled_aye_and_leave_the_card_with_the_gentleman_who_offered_it_If_you_wish_to_refuse_our_services_check_nay_Leave_the_rest_to_us_ = "Не проблема! Просто поставьте галочку возле “АГА” и отдайте\nэту карточку джентльмену, от которого её получили.\nЕсли вы хотите отказаться от наших услуг, отметьте “НЕ-А”.\nОб остальном мы позаботимся.";
 
 //Journal
 //Label_Status = "Состояние";
-Label_Documents = "Документы";
-Label_Maps = "Карты";
-Label_Research = "Исследования";
-Label_Keys = "Ключи";
-Label_Notes = "Записки";
+// Label_Documents = "Документы";
+// Label_Maps = "Карты";
+// Label_Research = "Исследования";
+// Label_Keys = "Ключи";
+// Label_Notes = "Записки";
 
 //These four lines translate headers of journal. I am not sure if the ones above work, but you better translate them too
-Header_Text_Status = "Состояние";
-Header_Text_Documents = "Документы";
-Header_Text_Maps = "Карты";
-Header_Text_Keys = "Ключи";
+// Header_Text_Status = "Состояние";
+// Header_Text_Documents = "Документы";
+// Header_Text_Maps = "Карты";
+// Header_Text_Keys = "Ключи";
 
-Status_Label_Health = "Состояние";
-Status_Text_Condition = "Состояние";
-Status_Label_Mind = "Разум";
-Status_Text_Fine = "Нормально";
-Status_Label_Effects = "Эффекты";
-Status_Label_Conditions = "Состояния";
+// Status_Label_Health = "Состояние";
+// Status_Text_Condition = "Состояние";
+// Status_Label_Mind = "Разум";
+// Status_Text_Fine = "Нормально";
+// Status_Label_Effects = "Эффекты";
+// Status_Label_Conditions = "Состояния";
 
 //Merchant Selling Paper
 Items_Label_Items = "Предмет";
@@ -526,6 +582,6 @@ Text_TMP_F1 = "1Э";
 Text_TMP_B = "П";
 
 //New Journal
-UI_Text_Default_Symptoms = "Симптомы";
-UI_Text_Label_Mind = "Разум";
-UI_Text_Label_Specimens = "Существа";
+// UI_Text_Default_Symptoms = "Симптомы";
+// UI_Text_Label_Mind = "Разум";
+// UI_Text_Label_Specimens = "Существа";
