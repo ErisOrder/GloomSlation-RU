@@ -84,7 +84,7 @@ MENU_PAUSE_SETTINGS		= "Настройки";
 MENU_PAUSE_TITLE		= "Главное меню";
 MENU_PAUSE_QUIT			= "Выйти из игры";
 MENU_PAUSE_QUICKSAVE	= "Быстр. Сохр.: ";
-MENU_PAUSE_QUICKLOAD	= "Быстр. ЗАгр.: ";
+MENU_PAUSE_QUICKLOAD	= "Быстр. Загр.: ";
 
 // Settings Menu
 MENU_SETTINGS_TITLE		        = "НАСТРОЙКИ";
@@ -118,9 +118,9 @@ OPTION_HIGH				= "<voffset=0.25em>Высоко";
 OPTION_ULTRA			= "<voffset=0.25em>Ультра";
 OPTION_NEAR				= "<voffset=0.25em>Близко";
 OPTION_FAR				= "<voffset=0.25em>Далеко";
-OPTION_ACCEPT			= "<voffset=0.25em>Принять";
-OPTION_APPLY			= "Применить";
-OPTION_RESET			= "По умолчанию";
+OPTION_ACCEPT			= "<voffset=0.25em>ПРИНЯТЬ";
+OPTION_APPLY			= "ПРИМЕНИТЬ";
+OPTION_RESET			= "ПО УМОЛЧАНИЮ";
 OPTION_BACK				= "<voffset=0.25em>Назад";
 OPTION_TUTORIALS		= "<voffset=0.25em>Включить обучение";
 OPTION_QUICKSAVE		= "<voffset=0.25em>Разрешить быстр. сохр.";
@@ -204,7 +204,7 @@ OPTION_SUB_MODE_SUB		= "<voffset=0.25em>Диалоги";
 OPTION_SUB_MODE_FULL	= "<voffset=0.25em>Всё";
 
 // Settings Controls Menu
-OPTION_INPUT_MAPPING				= "УПРАВЛЕНИЕ";
+OPTION_INPUT_MAPPING				= "НАЗНАЧЕНИЕ КЛАВИШ";
 OPTION_BINDINGS			            = "Управление";
 OPTION_GAMEPAD			            = "<voffset=0.25em>Включить Геймпад";
 OPTION_SNEAK			            = "<voffset=0.25em>Нажать чтобы красться";
@@ -474,9 +474,10 @@ IDs are derived from GameObject name and original text, and they could easily ch
 
 //Settings Screen
 MedicalHistoryRecord_MEDICAL_HISTORY_RECORD = "ИСТОРИЯ БОЛЕЗНИ";
-MenuElement_Text__Jargon_APPROVED_FOR_CONSIDERATION_BY_THE_PRIMARY_LICENSED_MEDICAL_AUTHORITY = "ОДОБРЕНО ДЛЯ РАССМОТРЕНИЯ\nГЛАВНЫМ ЛИЦЕНЗИРОВАННЫМ\nМЕДИЦИНСКИМ ОРГАНОМ";
 Age_Age_ = "<size=90%>Возраст:";
 ForPatient_For_Patient_ = "Имя Пациента:";
+//  This one's a texture now for whatever reason
+// MenuElement_Text__Jargon_APPROVED_FOR_CONSIDERATION_BY_THE_PRIMARY_LICENSED_MEDICAL_AUTHORITY = "ОДОБРЕНО ДЛЯ РАССМОТРЕНИЯ\nГЛАВНЫМ ЛИЦЕНЗИРОВАННЫМ\nМЕДИЦИНСКИМ ОРГАНОМ";
 
 //Input Settings Menu
 MenuElement_Header_DRAFTED_PER_THE_INSTRUCTIONS_OF_THE_OFFICES_OF_GLOOMWOOD_A_LEDGER_OF_BINDINGS_TO_BE_USED_FOR_NAVIGATION_AND_ACTIONS = "<size=85%>СОСТАВЛЕНО В СООТВЕТСТВИИ С ИНСТРУКЦИЯМИ ОФИСОВ ГЛУМВУДА: РЕЕСТР НАЗНАЧЕНИЙ, ИСПОЛЬЗУЕМЫЙ ДЛЯ НАВИГАЦИИ И ДЕЙСТВИЙ";
@@ -517,11 +518,20 @@ Text_TMP_B  = "П";
 // New Game Screen
 MenuElement_Text_Moon_Phases_the_wonders_of_the_phases_of_the_moon  = "ЧУДЕСА ФАЗ ЛУНЫ";
 MenuElement_Text_Prompt_Difficulty_Select_a_difficulty              = "Выберете сложность";
+MenuElement_Label_EXIT = "НАЗАД";
+MenuElement_Label_NEXT = "ДАЛЕЕ";
 
 // Save-Load menu
 MenuElement_Text_Flavor_L_SPENCER_SONS                              = "<voffset=-0.5em>СПЕНСЕР И СЫНОВЬЯ";
 MenuElement_Text_Flavor_R_PHONOGRAPH_CO_                            = " ПРОИЗВОДСТВО ФОНОГРАФОВ";
-MenuElement_Label_FileType_Type                                          = "ТИП";
+MenuElement_Label_FileType_Type                                     = "ТИП";
+MenuElement_Label_FileThumbnail_Photo                               = "ФОТО";
+MenuElement_Label_FileThumbnail_1_Description                       = "ОПИСАНИЕ";
+MenuElement_Label_FileThumbnail_2_Time                              = "ВРЕМЯ";
+MenuElement_Label_FileThumbnail_3_Run                               = "КРУГ";
 
 // Delete Save Menu
 MenuElement_Text_Prompt_Header_SPENCER_SONS_PHONOGRAPH_CO_ = "СПЕНСЕР И СЫНОВЬЯ ПРОИЗВОДСТВО ФОНОГРАФОВ";
+
+// Ingame inventory UNBIND - what the heck???
+Text_TMP_Unbind = "Отвязать";
